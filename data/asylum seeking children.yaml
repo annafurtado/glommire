@@ -1,0 +1,42 @@
+UTE:
+ - asylum seeking children
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - asylum applicant
+ - destitute asylum seeker
+ - failed asylum seeker
+ - vulnerable asylum seeker
+ - unaccompanied children seeking asylum
+
+contexto:
+ - "Unaccompanied <b>asylum seeking children</b> are children who have applied for asylum in their own right, who are outside their country of origin and separated from both parents or previous/legal customary primary care giver."
+ - "Unaccompanied <b>asylum seeking children</b> must be accommodated and supported by the local authority in which they present themselves."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - demandeur d'asile mineurs
+
+obs:
+ -
+
+freq:
+ - 0.1
+
+def:
+ -
+
+variante:
+ - AU
+ - UK
+ - DE
+ - MT
+
+id:
+ - 0185

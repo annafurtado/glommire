@@ -1,0 +1,38 @@
+﻿UTE:
+ - asylum country
+
+UTEs_relacionadas:
+ - asylum
+ - country of first asylum
+
+contexto:
+ - "Even if refugees manage to get into an <b>asylum country</b>, in many cases they do not seek asylum and therefore are not included in the asylum statistics."
+ - "Lack of knowledge of the language of the <b>asylum country</b> or when a female doctor is not available may, for instance, be a serious cause of distress."
+
+pt:
+ - país de refúgio
+
+es:
+ - país de asilo
+
+fr:
+ - pays d'asile
+
+obs:
+ -
+
+freq:
+ - 0.35
+
+def:
+ -
+
+variante:
+ - EU
+ - CA
+ - NZ
+ - GB
+ - CH
+
+id:
+ - 0017

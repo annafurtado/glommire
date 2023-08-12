@@ -1,0 +1,42 @@
+﻿UTE:
+ - lodge an asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum procedure
+ - asylum claim
+ - process an asylum claim
+ - make an asylum claim
+ - refuse an asylum claim
+ - reject an asylum claim
+ - submit an asylum claim
+
+contexto:
+ - "The European Union's 2013 recast Reception Conditions Directive sets the maximum waiting period for asylum-seekers before they are permitted to work after <b>lodging their asylum claim</b> at nine months."
+ - "Applicants who have been granted entry into the country in order to <b>lodge an asylum claim</b> have to register at a reception centre."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - déposer une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.01
+
+def:
+ -
+
+variante:
+ - EU
+ - AU
+ - GB
+
+id:
+ - 0032

@@ -1,0 +1,40 @@
+﻿UTE:
+ - país de asilo
+
+UTEs_relacionadas:
+ - asilo
+ - país de primer asilo
+
+contexto:
+ - "A veces, estas condiciones persisten en el <b>país de asilo</b>, en especial cuando los refugiados forman parte de minorías no bienvenidas en la cultura dominante del país receptor."
+ - "El apoyo material y logístico puede obtenerse en el <b>país de asilo</b>, los países vecinos u otros países donantes."
+
+pt:
+ - país de refúgio
+
+en:
+ - country of asylum
+
+fr:
+ - pays de asile
+
+obs:
+ -
+
+freq:
+ - 5.64
+
+def:
+ -
+
+variante:
+ - EU
+ - EC
+ - ES
+ - AR
+ - MX
+ - LA
+ - EU
+
+id:
+ - 0081

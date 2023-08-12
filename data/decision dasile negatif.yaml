@@ -1,0 +1,34 @@
+﻿UTE:
+ - décision d'asile négative
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "<b>Décision d' asile négative</b> et décision de renvoi avec exposé des motifs La demande d'asile est rejetée et vous devez quitter la Suisse à l'expiration du délai de départ."
+ - "En cas de <b>décision d' asile négative</b>, vous avez droit à l'aide d'urgence jusqu'à votre départ, même si vous avez un statut illégal en Suisse."
+
+pt:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.1
+
+def:
+ -
+
+variante:
+ - CH
+ - CA
+
+id:
+ - 0175

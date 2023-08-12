@@ -1,0 +1,34 @@
+﻿UTE:
+ - proceso de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Quizás que el <b>proceso de asilo</b> sea más rápido, pues el año de espera es muy angustioso."
+ - "A partir de ahí, se analiza el esquema del <b>proceso de asilo</b>, es decir, las fases que tienen que seguir los refugiados una vez llegados a España."
+
+pt:
+ - processo de refúgio
+
+en:
+ - asylum process
+
+fr:
+ - procédure d'asile
+
+obs:
+ -
+
+freq:
+ - 0.13
+
+def:
+ -
+
+variante:
+ - ES
+ - LA
+
+id:
+ - 0085

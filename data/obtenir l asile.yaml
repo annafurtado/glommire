@@ -1,0 +1,36 @@
+﻿UTE:
+ - obtenir l'asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "Par ailleurs, la désertion ne doit plus être considérée comme un motif <b>d’obtenir l’asile</b>."
+ - "Les demandeurs d’asile doivent se voir remettre un document attestant de leur identité et du fait qu’ils cherchent à <b>obtenir l’asile</b>."
+
+pt:
+ - obter refúgio
+
+en:
+ - get asylum
+
+es:
+ - obtener asilo
+
+obs:
+ -
+
+freq:
+ - 0.53
+
+def:
+ -
+
+variante:
+ - FR
+ - CH
+ - CA
+ - BE
+
+id:
+- 0048

@@ -1,0 +1,33 @@
+﻿UTE:
+ - país de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "Um refugiado que cometa um crime grave no <b>país de refúgio</b> está sujeito à jurisdição desse país."
+ - "Se um refugiado estiver em risco em seu <b>país de refúgio</b>, ou se tiver necessidades específicas que não possam ser atendidas no país de refúgio, ele pode precisar ser considerado para reassentamento em um terceiro país."
+
+es:
+ - país de asilo
+
+en:
+ - asylum country
+
+fr:
+ - pays d'asile
+
+obs:
+ -
+
+freq:
+ - 4.43
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0114

@@ -1,0 +1,35 @@
+UTE:
+ - demandeur d’asile mineur
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "L’Officier de protection, formé afin d’adapter son entretien à un <b>demandeur d’asile mineur</b>, doit vérifier la bonne compréhension du mineur et de son interprète et l’informer du déroulement et des objectifs de l’entretien."
+ - "En attendant, votre dossier ne sera pas traité puisque l’Ofpra ne peut continuer la procédure si un <b>demandeur d’ asile mineur</b> isolé n’a pas de représentant légal."
+
+pt:
+ -
+
+es:
+ -
+
+en:
+ - asylum seeker children
+
+obs:
+ -
+
+freq:
+ - 0.1
+
+def:
+ -
+
+variante:
+ - CH
+ - CA
+ - FR
+
+id:
+ - 0179

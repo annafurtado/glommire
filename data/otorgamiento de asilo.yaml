@@ -1,0 +1,36 @@
+﻿UTE:
+ - otorgamiento de asilo
+
+UTEs_relacionadas:
+ - asilo
+ - otorgar asilo
+
+contexto:
+ - "La Declaración reitera que el <b>otorgamiento de asilo</b> 'es un acto pacífico y humanitario y que, como tal, no puede ser considerado inamistoso por ningún otro Estado'."
+ - "La protección de las personas migrantes, refugiadas y solicitantes de asilo comienza por garantizar su admisión en un país seguro, el <b>otorgamiento del asilo</b> y asegurar el respeto de sus derechos humanos fundamentales, incluyendo el derecho a no ser regresado forzosamente a un país donde su seguridad o su supervivencia estén amenazadas."
+
+pt:
+ - concessão de refúgio
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.56
+
+def:
+ -
+
+variante:
+ - MX
+ - EU
+ - ES
+
+id:
+ - 0107

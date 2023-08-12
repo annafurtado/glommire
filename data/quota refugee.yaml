@@ -1,0 +1,35 @@
+UTE:
+ - quota refugee
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "<b>Quota Refugee</b>: A refugee, as identified by the UNHCR, who is accepted by a State as part of a yearly Resettlement Programme."
+ - "Family reunification cases and the resettlement quotas Immediate family of <b>quota refugees</b> (i.e., spouse and dependent children) approved for inclusion in the Refugee Quota Programme are counted within the quota of 1000 persons."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - The majority of the occurences are in plural.
+
+freq:
+ - 1.0
+
+def:
+ -
+
+variante:
+ - AU
+ - NZ
+ - EU
+
+id:
+ - 0155

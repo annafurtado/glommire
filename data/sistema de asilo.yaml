@@ -1,0 +1,36 @@
+﻿UTE:
+ - sistema de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Pienso que tiene que haber medidas de protección de gran calidad y a la vez evitar el fraude a los <b>sistemas de asilo</b>."
+ - "Aún después de ser adoptada la ley, y a pesar de que el <b>sistema de asilo</b> se fortaleció e institucionalizó, no existía aún la estructura administrativa ni la red de acogida y de apoyo que existe ahora."
+
+pt:
+ - sistema de refúgio
+
+en:
+ - asylum system
+
+fr:
+ - système de asile
+
+obs:
+ -
+
+freq:
+ - 0.81
+
+def:
+ -
+
+variante:
+ - ES
+ - MX
+ - EU
+ - LA
+
+id:
+ - 0085

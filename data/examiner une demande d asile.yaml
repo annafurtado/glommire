@@ -1,0 +1,41 @@
+﻿UTE:
+ - examiner une demande d'asile
+
+UTEs_relacionadas:
+ - asile
+ - demande d'asile
+ - présenter une demande d'asile
+ - déposer une demande d'asile
+
+contexto:
+ - "Sa mission principale est d'<b>examiner les demandes d'asile</b> introduites en Belgique, et d'accorder ou non une protection (statut de réfugié ou de protection subsidiaire)."
+ - "Il <b>examine la demande d'asile</b> et prend la décision d'accorder à la personne la protection internationale ou de rejeter la demande."
+
+pt:
+ -
+
+en:
+ - examine an asylum application
+
+es:
+ - examinar una solicitud
+
+obs:
+ -
+
+freq:
+ - 0.32
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CA
+ - CH
+ - LU
+ - EU
+
+id:
+- 0063

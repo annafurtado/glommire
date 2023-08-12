@@ -1,0 +1,41 @@
+﻿UTE:
+ - faire une demande d'asile
+
+UTEs_relacionadas:
+ - asile
+ - demande d'asile
+ - présenter une demande d'asile
+ - déposer une demande d'asile
+ - examiner une demande d'asile
+
+contexto:
+ - "Vous avez tout de même le droit de <b>faire une demande d'asile</b> et pouvez donc prendre rendez-vous dans une SPADA."
+ - "Les personnes qui n’ont pas <b>fait une demande d’asile</b> peuvent faire une demande CH à n’importe quel moment."
+
+pt:
+ -
+
+en:
+ - make an asylum claim
+
+es:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.47
+
+def:
+ -
+
+variante:
+ - FR
+ - CA
+ - BE
+ - CH
+ - EU
+
+id:
+- 0064

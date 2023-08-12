@@ -1,0 +1,45 @@
+﻿UTE:
+ - grant asylum
+
+UTEs_relacionadas:
+ - asylum
+
+contexto:
+ - "Some refugees are formally <b>granted asylum</b>, or are resettled, and have extensive access to rights, often on a par with citizens in their host countries."
+ - "A person who is <b>granted asylum</b> will be given a refugee travel document and a residence permit card."
+
+pt:
+ - conceder refúgio
+
+es:
+ - conceder asilo
+ - otorgar asilo
+
+fr:
+ - accorder l'asile
+
+obs:
+ -
+
+freq:
+ - 1.07
+
+def:
+ -
+
+variante:
+ - US
+ - CA
+ - EU
+ - IE
+ - GB
+ - NZ
+ - AU
+ - ZA
+ - DE
+ - CH
+ - FR
+ - EG
+
+id:
+ - 0019

@@ -1,0 +1,45 @@
+UTE:
+ - asilo
+
+UTEs_relacionadas:
+ - solicitación de asilo
+
+contexto:
+ - "Cuestiones esenciales <b>asilo</b> versus otras formas de protección."
+ - "He pedido </b>asilo</b> en la Unión Europea, ¿qué país se encargará de tramitar mi solicitud?"
+
+pt:
+ - refúgio
+
+en:
+ - asylum
+
+fr:
+ - asile
+
+obs:
+ -
+
+freq:
+ - 100.0
+
+def:
+ -
+
+variante:
+ - MX
+ - ES
+ - EU
+ - CO
+ - EC
+ - CL
+ - AR
+ - PA
+ - LA
+ - GT
+ - PE
+ - US
+ - UY
+
+id:
+ - 0144

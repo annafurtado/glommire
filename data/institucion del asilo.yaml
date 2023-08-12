@@ -1,0 +1,36 @@
+﻿UTE:
+ - institución del asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "El análisis de la <b>institución del asilo</b> en España no se puede abordar sin hacer un breve repaso de la situación que se vive en Europa."
+ - "[...] la <b>institución del asilo</b>, que es una emanación directa del derecho a buscar asilo y a disfrutar de él, enunciado en el párrafo 1 del artículo 14 de la Declaración Universal de Derechos Humanos de 1948, es uno de los mecanismos más fundamentales para la protección internacional de los refugiados."
+
+pt:
+ - instituto do refúgio
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.43
+
+def:
+ -
+
+variante:
+ - MX
+ - ES
+ - EU
+ - LA
+
+id:
+ - 0108

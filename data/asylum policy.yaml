@@ -1,0 +1,40 @@
+﻿UTE:
+ - asylum policy
+
+UTEs_relacionadas:
+ - asylum
+
+contexto:
+ - "Traditionally, <b>asylum policy</b> is only rarely informed by the assessments of those who are most affected by it: the asylum seekers themselves."
+ - "The Government's <b>asylum policy</b> is committed to the full application of the 1951 Convention."
+
+pt:
+ - política de refúgio
+
+es:
+ - política de asilo
+
+fr:
+ - politique d'asile
+
+obs:
+ -
+
+freq:
+ - 1.09
+
+def:
+ -
+
+variante:
+ - EU
+ - CA
+ - AU
+ - IE
+ - NZ
+ - SE
+ - GB
+ - CH
+
+id:
+ - 0009

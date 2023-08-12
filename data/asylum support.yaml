@@ -1,0 +1,36 @@
+﻿UTE:
+ - asylum support
+
+UTEs_relacionadas:
+ - asylum
+
+contexto:
+ - "This process and the service to support applications for <b>asylum support</b> is provided by Migrant Help."
+ - "Most asylum seekers apply for <b>asylum support</b> when they make their asylum application."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.51
+
+def:
+ -
+
+variante:
+ - IE
+ - GB
+ - EU
+ - FR
+
+id:
+ - 0012

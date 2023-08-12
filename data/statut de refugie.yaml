@@ -1,0 +1,36 @@
+﻿UTE:
+ - statut de refugié
+
+UTEs_relacionadas:
+ - asile
+ - refugié
+
+contexto:
+ - "Retirer le <b>statut de réfugié</b> n'entraîne pas automatiquement le retrait du droit de séjour."
+ - "L'obtention du <b>statut de réfugié</b> ou du bénéfice de la protection subsidiaire va entraîner votre immatriculation définitive à la sécurité sociale et la délivrance de votre carte vitale, qui se substituera à l'attestation de droits remise par la CPAM."
+
+pt:
+ - status de refugiado
+
+en:
+ - asylum status
+
+es:
+ - status de asilo
+
+obs:
+ -
+
+freq:
+ - 0.19
+
+def:
+ -
+
+variante:
+ - PT
+ - FR
+ - CH
+
+id:
+- 0062

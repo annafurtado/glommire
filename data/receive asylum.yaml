@@ -1,0 +1,36 @@
+﻿UTE:
+ - receive asylum
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "If there is a civil war in your country that was not occurring at the time of your one- year deadline but now makes it dangerous for you to return, you might <b>receive asylum</b> even if you submit your asylum application after the one-year deadline."
+ - "If your spouse and unmarried children are in the United States, they will also <b>receive asylum</b> if you are granted asylum."
+
+pt:
+ - receber refúgio
+
+es:
+ - recibir asilo
+
+fr:
+ - recevoir l'asile
+
+obs:
+ -
+
+freq:
+ - 0.1
+
+def:
+ -
+
+variante:
+ - US
+ - UE
+ - SE
+ - CH
+
+id:
+ - 0178

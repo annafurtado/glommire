@@ -1,0 +1,49 @@
+UTE:
+ - refugiado
+
+UTEs_relacionadas:
+ - condición de refugiado
+ - solicitud de reconocimiento de la condición de refugiado
+
+contexto:
+ - "Los <b>refugiados</b> que estén desempleados corren peligro de quedarse atrapados en un círculo viciosos de marginación que no sólo les afectará a ellos sino, probablemente, también a las futuras generaciones."
+ - "Los niños que son <b>refugiados</b> o solicitantes de asilo se benefician de una atención especial de conformidad con el artículo 22 de la Convención sobre los Derechos del Niño."
+
+pt:
+ - refugiado
+
+en:
+ - refugee
+
+fr:
+ - refugiée
+
+obs:
+ -
+
+freq:
+ - 100.0
+
+def:
+ -
+
+variante:
+ - MX
+ - ES
+ - EU
+ - CO
+ - ES
+ - EC
+ - CR
+ - CH
+ - AR
+ - PA
+ - LA
+ - CL
+ - GT
+ - PE
+ - US
+ - UY
+
+id:
+ - 0143

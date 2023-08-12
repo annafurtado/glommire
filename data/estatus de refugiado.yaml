@@ -1,0 +1,37 @@
+﻿UTE:
+ - estatus de refugiado
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "El <b>estatus de refugiado</b> es un derecho para las personas que han tenido que huir de sus países para salvar sus vidas."
+ - "A los refugiados reasentados se les proporciona un permiso de residencia a su llegada, ofreciéndoles el <b>estatus de refugiados</b> o una protección temporal por necesidades humanitarias de uno a cinco años, renovable."
+
+pt:
+ - status de refugiado
+
+en:
+ - refugee status
+
+fr:
+ - statut de refugié
+
+obs:
+ -
+
+freq:
+ - 0.4
+
+def:
+ -
+
+variante:
+ - EC
+ - MX
+ - UE
+ - ES
+ - GT
+
+id:
+ - 0167

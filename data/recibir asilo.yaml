@@ -1,0 +1,37 @@
+﻿UTE:
+ - recibir asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "No se puede <b>recibir el asilo</b> nadie que ha perseguido a otros."
+ - "La Constitución ecuatoriana de 2008, por su parte, no señala expresamente el derecho de <b>recibir asilo</b>, pero éste se incorpora al ordenamiento interno de cualquier estado latinoamericano en virtud de la Convención Americana de Derechos Humanos y la Declaración Americana de los Derechos y Deberes del Hombre."
+
+pt:
+ - receber refúgio
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.017
+
+def:
+ -
+
+variante:
+ - EC
+ - ES
+ - MX
+ - LA
+ - US
+
+id:
+ - 0099

@@ -1,0 +1,35 @@
+﻿UTE:
+ - procedimiento de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "La finalidad principal de facilitar información es garantizar que las personas que pueden necesitar protección internacional tengan acceso efectivo al <b>procedimiento de asilo</b> y sean capaces de tomar decisiones bien informadas sobre si solicitar protección internacional o no."
+ - "Para asegurarse de que se respeta el principio de no devolución y para que el derecho de asilo sea efectivo, todas las personas que necesiten protección internacional deben tener la posibilidad de acceder al <b>procedimiento de asilo</b>."
+
+pt:
+ - procedimento de refúgio
+
+en:
+ - asylum procedure
+
+fr:
+ - procédure d'asile
+
+obs:
+ -
+
+freq:
+ - 2.65
+
+def:
+ -
+
+variante:
+ - ES
+ - EU
+ - MX
+
+id:
+ - 0104

@@ -1,0 +1,35 @@
+﻿UTE:
+ - denegar asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "No constituye violación del artículo 3 en la expulsión un ciudadano chileno a quien se <b>denegó el asilo</b>, toda vez que la valoración del riesgo por el Estado parte debe estar basada en hechos conocidos en el momento de la expulsión."
+ - "Por ello, algunos Estados, como Perú, han incluido expresamente entre las causales para <b>denegar el asilo</b> el delito de terrorismo."
+
+pt:
+ -
+
+en:
+ - refuse an asylum claim
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.13
+
+def:
+ -
+
+variante:
+ - ES
+ - EU
+ - MX
+
+id:
+ - 0102

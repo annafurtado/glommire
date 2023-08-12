@@ -1,0 +1,34 @@
+﻿UTE:
+ - formulário de solicitação de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+ - solicitação de refúgio
+
+contexto:
+ - "O <b>Formulário de Solicitação de Refúgio</b>, a ser preenchido pelo solicitante de refúgio; e contém dois anexos: anexo I sobre definições de refugiado e de tortura; anexo II, informações sobre contatos úteis aos solicitantes de refúgio."
+ - "O <b>Formulário de Solicitação de Refúgio</b> está disponível no site www.justica.gov.br/seusdireitos /estrangeiros/refugio nas Unidades Descentralizadas da Polícia Federal e também nas organizações da sociedade civil parceiras do CONARE."
+
+es:
+ -
+
+en:
+ -
+
+fr:
+ - formulaire de demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.56
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0138

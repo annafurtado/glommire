@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<meta charset="UTF-8">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link rel="stylesheet" type="text/css" href="static/css/stylesheets.css"/>
+    <title>Glossário Multilíngue Online</title>
+  </head>
+  <body style="margin:20px;">
+	<p>
+	<form action="/admin" method="post">
+	<!-- <input type="radio" name="cria_indice" value="criar"> criar<br> -->
+
+      <div><input type="submit" name="cria_indice" value="CriaIndice"/></div>
+    </form>
+	</p>
+
+  <p>
+	<form action="/admin" method="post">
+		<!-- <input type="radio" name="deleta_indice" value="deletar"> deletar<br> -->
+
+      <div><input type="submit" name="deleta_indice" value="DeletaIndice"/></div>
+    </form>
+	</p> 
+
+	<a href={{url}}> {{url_linktext}}</a>
+  </body>
+</html>

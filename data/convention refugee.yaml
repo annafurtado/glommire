@@ -1,0 +1,37 @@
+UTE:
+ - Convention refugee
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "<b>Convention refugee</b>: A person who meets the definition of 'refugee' in the 1951 United Nations Convention Relating to the Status of Refugees."
+ - "If the Refugee Appeals Board does not agree with the decision of the Immigration Service, the asylum-seeker is normally granted a residence permit either as a <b>Convention refugee</b> or as a person granted protected status (subsidiary protection)."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - Convention is in capital letters in the majority of the occurences.
+
+freq:
+ - 1.0
+
+def:
+ -
+
+variante:
+ - CA
+ - EU
+ - NZ
+ - GB
+ - CH
+
+id:
+ - 0156

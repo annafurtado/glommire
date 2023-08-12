@@ -1,0 +1,34 @@
+﻿UTE:
+ - chercher asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "L'article 14 stipule que « devant la persécution, toute personne a le droit de <b>chercher asile</b> et de bénéficier de l'asile en d'autres pays », à moins que la poursuite soit fondée sur un crime de droit commun ou des agissements contraires aux principes des Nations unies."
+ - "Le fait de <b>chercher asile</b> n’étant pas illégal, la détention des requérants doit en principe être évitée conformément aux normes internationales relatives au droit des réfugiés et au droit des droits de l’homme."
+
+pt:
+ - buscar refúgio
+
+en:
+ - seek asylum
+
+es:
+ - buscar asilo
+
+obs:
+ -
+
+freq:
+ - 0.26
+
+def:
+ -
+
+variante:
+ - BE
+ - CH
+
+id:
+- 0047

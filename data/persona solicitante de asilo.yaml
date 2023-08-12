@@ -1,0 +1,36 @@
+﻿UTE:
+ - persona solicitante de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Se pretende que a partir de esta guía, se puedan hacer valer ante la Comisión Mexicana de Ayuda a Refugiados y los tribunales competentes los derechos de las <b>personas solicitantes de asilo</b> y refugio."
+ - "Destaquemos que en Ecuador el principio se encuentra en el artículo 41 de la Constitución Política: 'No se aplicará a las <b>personas solicitantes de asilo</b> o refugio sanciones penales por el hecho de su ingreso o de su permanencia en situación de irregularidad'."
+
+pt:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.90
+
+def:
+ -
+
+variante:
+ - ES
+ - MX
+ - LA
+ - GT
+
+id:
+ - 0106

@@ -1,0 +1,44 @@
+﻿UTE:
+ - asile
+
+UTEs_relacionadas:
+ - demande d'asile
+
+contexto:
+ - "<b>L'asile</b> est accordé pour une durée indéterminée, mais il peut être révoqué dans certaines circonstances."
+ - "La loi suisse sur <b>l’asile</b> s’appuie sur cette convention pour définir qui est un-e réfugié-e et qui est en droit de rester sur le territoire suisse."
+
+pt:
+ - refúgio
+
+en:
+ - asylum
+
+es:
+ - asilo
+
+obs:
+ -
+
+freq:
+ - 100.0
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CA
+ - LU
+ - CH
+ - PT
+ - CY
+ - NL
+ - EU
+ - AT
+ - DE
+ - DK
+
+id:
+- 0036

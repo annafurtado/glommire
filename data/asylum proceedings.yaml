@@ -1,0 +1,40 @@
+﻿UTE:
+ - asylum proceedings
+
+UTEs_relacionadas:
+ - asylum
+ - asylum process
+ - regular asylum procedure
+ - individual asylum procedure
+ - asylum determination process
+
+contexto:
+ - "An asylum-seeker is protected by the principle of non-refoulement for the duration of the <b>asylum proceedings</b>."
+ - "This manual is a guide to asylum practice and does not purport to discuss all aspects of immigration practice related to <b>asylum proceedings</b>."
+
+pt:
+ - processo de refúgio
+
+es:
+ - proceso de asilo
+
+fr:
+ - procédure d'asile
+
+obs:
+ - todas as ocorrências aparecem no plural.
+
+freq:
+ - 0.14
+
+def:
+ -
+
+variante:
+ - EU
+ - AU
+ - DE
+ - US
+
+id:
+ - 0040

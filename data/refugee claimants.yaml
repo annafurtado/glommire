@@ -1,0 +1,36 @@
+UTE:
+ - refugee claimants
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "In Canada, once you properly apply for refugee protection and you are determined to be eligible, the legal term for your immigration status in Canada will be <b>refugee claimant</b>."
+ - "Asylum-seeker (also <b>refugee claimant</b> or applicant): A person who seeks safety from persecution or serious harm in a country other than his or her own and awaits a decision on the application for refugee status under relevant international and national instruments."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - The majority of the occurences are in plural
+
+freq:
+ - 0.8
+
+def:
+ -
+
+variante:
+ - CA
+ - EU
+ - NZ
+ - CH
+
+id:
+ - 0161

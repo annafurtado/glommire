@@ -1,0 +1,41 @@
+﻿UTE:
+ - asylum seeker children
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - asylum applicant
+ - destitute asylum seeker
+ - failed asylum seeker
+ - vulnerable asylum seeker
+
+contexto:
+ - "The Commission has repeatedly stated that hot, remote locations are not appropriate places to send <b>asylum seeker children</b>, or other vulnerable groups."
+ - "Unaccompanied refugee or <b>asylum seeker children</b> or young people who claim to be minors should have an independent advocate present while undergoing age assessment."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - todas as ocorrências aparecem no plural.
+
+freq:
+ - 0.08
+
+def:
+ -
+
+variante:
+ - AU
+ - GB
+ - NZ
+ - EG
+
+id:
+ - 0041

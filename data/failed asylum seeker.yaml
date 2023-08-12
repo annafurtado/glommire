@@ -1,0 +1,41 @@
+﻿UTE:
+ - failed asylum seeker
+
+UTEs_relacionadas:
+ - asylum
+ - asylum seeker
+ - asylum applicant
+ - destitute asylum seeker
+ - vulnerable asylum seeker
+
+contexto:
+ - "Further, <b>failed asylum seekers</b> who do not return to their countries of origin also fall outside the provision system, even being ineligible for homelessness supports."
+ - "Most asylum seekers and some <b>failed asylum seekers</b> are provided with accommodation and support by the UKBA, but in some cases the social services department of local councils are under a duty to help."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - requérants d'asile déboutés
+
+obs:
+ -
+
+freq:
+ - 0.52
+
+def:
+ -
+
+variante:
+ - US
+ - IE
+ - NZ
+ - AU
+ - GB
+
+id:
+ - 0022

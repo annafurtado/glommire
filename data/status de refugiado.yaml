@@ -1,0 +1,34 @@
+UTE:
+ - status de refugiado
+
+UTEs_relacionadas:
+ - refugiado
+
+contexto:
+ - "Se incluyen los casos específicos de los desplazados y refugiados por efecto de las fumigaciones y cuya condición aparte de ser a veces transitoria, no está prevista dentro de las causales para otorgar el <b>status de refugiado</b> en Ecuador."
+ - "Lo que indica que existe en la práctica una tendencia a un menor porcentaje de reconocimiento de personas con el <b>status de refugiado</b>."
+
+pt:
+ - status de refugiado
+
+en:
+ - asylum status
+
+fr:
+ - statut de refugié
+
+obs:
+ -
+
+freq:
+ - 0.43
+
+def:
+ -
+
+variante:
+ - EC
+ - ES
+
+id:
+ - 0146

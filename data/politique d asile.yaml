@@ -1,0 +1,35 @@
+﻿UTE:
+ - politique d'asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "Mais que faut-il entendre par une <b>politique d’asile</b> crédible?"
+ - "En tant qu’observateur, je constate que les Etats veulent en premier lieu contrôler la migration et, en second lieu seulement, s’engager pour une <b>politique d’asile</b> équitable."
+
+pt:
+ - política de refúgio
+
+en:
+ - asylum policy
+
+es:
+ - política de asilo
+
+obs:
+ -
+
+freq:
+ - 0.76
+
+def:
+ -
+
+variante:
+ - FR
+ - CH
+ - BE
+
+id:
+- 0061

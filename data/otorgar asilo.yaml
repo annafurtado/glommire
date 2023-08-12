@@ -1,0 +1,36 @@
+﻿UTE:
+ - otorgar asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "¿Están los Estados obligados a <b>otorgar asilo</b>?"
+ - "<b>Otorgado el asilo</b> político, la Secretaría de Relaciones Exteriores notificará su decisión a la Secretaría a efecto de que esta expida el documento migratorio de conformidad con lo establecido en la Ley de Migración."
+
+pt:
+ -
+
+en:
+ - grant asylum
+
+fr:
+ - accorder asile
+
+obs:
+ -
+
+freq:
+ - 0.006
+
+def:
+ -
+
+variante:
+ - ES
+ - MX
+ - EU
+ - CL
+
+id:
+ - 0101

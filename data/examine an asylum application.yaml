@@ -1,0 +1,38 @@
+﻿UTE:
+ - examine an asylum application
+
+UTEs_relacionadas:
+ - asylum
+ - submit an asylum application
+ - process an asylum application
+
+contexto:
+ - "Dublin III Regulation sets out the criteria for determining which EU Member State or other participating country is responsible for <b>examining an asylum application</b>."
+ - "The Federal Office <b>examines each asylum application</b> on the basis of the German Asylum Act (Asylgesetz) as to whether one of the four forms of protection - entitlement to asylum, refugee protection, subsidiary protection or a ban on deportation – applies."
+
+pt:
+ -
+
+es:
+ - examinar una solicitud
+
+fr:
+ - examiner une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.27
+
+def:
+ -
+
+variante:
+ - EU
+ - GB
+ - IE
+ - MT
+
+id:
+ - 0024

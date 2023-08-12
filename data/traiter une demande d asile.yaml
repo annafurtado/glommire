@@ -1,0 +1,39 @@
+﻿UTE:
+ - traiter une demande d'asile
+
+UTEs_relacionadas:
+ - asile
+ - demande d'asile
+
+contexto:
+ - "Le Règlement Dublin III prévoit par ailleurs une clause humanitaire qui permet à chaque État de <b>traiter la demande d'asile</b> qui lui est soumise, même s'il n'est pas responsable en vertu des critères."
+ - "C’est pourquoi l’objectif prioritaire du HCR et de l’OSAR est de mieux sensibiliser les spécialistes du système de l’asile aux besoins spécifiques de ces enfants et adolescents dont il faut <b>traiter les demandes d’asile</b> en priorité."
+
+pt:
+ -
+
+en:
+ - process an asylum application
+ - process an asylum claim
+
+es:
+ - procesar una solicitud
+
+obs:
+ -
+
+freq:
+ - 0.23
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CH
+ - CA
+ - NL
+
+id:
+- 0067

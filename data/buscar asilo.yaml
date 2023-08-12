@@ -1,0 +1,39 @@
+﻿UTE:
+ - buscar asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Los que <b>buscan asilo</b>, considerados como competidores por unos recursos escasos, son objetivos claros de la violencia racial o étnica."
+ - "La Declaración Universal de los Derechos Humanos, en su artículo 14, establece que:  'En caso de persecución, toda persona tiene derecho a <b>buscar asilo</b>, y a disfrutar de él en cualquier país'."
+
+pt:
+ - buscar refúgio
+
+en:
+ - seek asylum
+
+fr:
+ - chercher asile
+
+obs:
+ -
+
+freq:
+ - 5.02
+
+def:
+ -
+
+variante:
+ - MX
+ - EU
+ - EC
+ - ES
+ - PA
+ - LA
+ - EU
+
+id:
+ - 0082

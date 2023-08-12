@@ -1,0 +1,35 @@
+﻿UTE:
+ - presentar una solicitud de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "La ley te otorga un plazo de diez días desde el ingreso al país o inicio de la estadía irregular para <b>presentar una solicitud de asilo</b> o refugio."
+ - "Cuando alguien <b>presenta una solicitud de asilo</b> en cualquier punto de la UE, sus impresiones dactilares se transmiten al sistema central Eurodac, que es un programa informático creado en 1993."
+
+pt:
+ - apresentar uma solicitação de refúgio
+
+en:
+ -
+
+fr:
+ - présenter une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.002
+
+def:
+ -
+
+variante:
+ - ES
+ - CL
+ - EU
+
+id:
+ - 0097

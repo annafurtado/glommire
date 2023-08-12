@@ -1,0 +1,38 @@
+﻿UTE:
+ - officier de protection
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "Cette audition avec un <b>officier de protection</b> du CGRA aura lieu au moins 8 jours ouvrables après que le demandeur ait reçu la notification de la convocation."
+ - "Cette audition avec un <b>officier de protection</b> du CGRA aura lieu au moins 8 jours ouvrables après que le demandeur ait reçu la notification de la convocation."
+
+pt:
+ -
+
+en:
+ - asylum officer
+
+es:
+ -
+
+obs:
+ -
+
+freq:
+ - 2.05
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - NL
+ - CH
+ - EU
+ - CA
+
+id:
+- 0066

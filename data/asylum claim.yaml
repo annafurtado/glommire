@@ -1,0 +1,52 @@
+﻿UTE:
+ - asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum application
+ - process an asylum claim
+ - make an asylum claim
+ - refuse an asylum claim
+ - lodge an asylum claim
+ - reject an asylum claim
+ - submit an asylum claim
+
+contexto:
+ - "If your <b>asylum claim</b> is based on race, nationality, ethnicity, or tribal membership, you can explain that in your declaration."
+ - "All <b>asylum claims</b> are considered on their individual merits according to criteria set out in the 1951 Convention."
+
+pt:
+ - solicitação de refúgio
+
+es:
+ - solicitud de asilo
+
+fr:
+ - demande d'asile
+
+obs:
+ -
+
+freq:
+ - 5.1
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - CA
+ - AU
+ - IE
+ - GB
+ - NZ
+ - ZA
+ - DE
+ - CH
+ - MT
+ - FR
+ - EG
+
+id:
+ - 0005

@@ -1,0 +1,45 @@
+﻿UTE:
+ - vulnerable asylum seeker
+
+UTEs_relacionadas:
+ - asylum
+ - asylum seeker
+ - seek asylum
+ - asylum applicant
+ - destitute asylum seeker
+ - failed asylum seeker
+ - asylum seeker children
+
+contexto:
+ - "Procedures should be in place to identify and assist <b>vulnerable asylum seekers</b>."
+ - "The British Red Cross runs a service providing practical and emotional assistance to <b>vulnerable asylum seekers</b> and refugees."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.15
+
+def:
+ -
+
+variante:
+ - CA
+ - EU
+ - IE
+ - AU
+ - DE
+ - MT
+ - GB
+
+id:
+ - 0023

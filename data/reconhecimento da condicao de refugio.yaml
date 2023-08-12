@@ -1,0 +1,35 @@
+﻿UTE:
+ - reconhecimento da condição de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+ - reconhecimento de refúgio
+ - condição de refúgio
+
+contexto:
+ - "A autoridade competente notificará o solicitante para prestar declarações, havendo o auxílio de intérprete caso seja necessário, e o solicitante deverá preencher a solicitação de <b>reconhecimento da condição de refúgio</b> indicando a identificação completa, qualificação profissional, grau de escolaridade do solicitante e membros do seu grupo familiar, assim como relato das circunstâncias e fatos que fundamentem o pedido, apresentando os elementos de prova pertinentes."
+ - "No caso de decisão positiva do Conare, não cabe recurso administrativo ao Ministro de Estado, pela expressa falta de previsão legal, que obviamente privilegiou o <b>reconhecimento da condição de refúgio</b>."
+
+es:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.25
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0126

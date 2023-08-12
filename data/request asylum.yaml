@@ -1,0 +1,43 @@
+﻿UTE:
+ - request asylum
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - grant asylum
+ - asylum claim
+ - claim asylum
+ - asylum request
+
+contexto:
+ - "If you are <b>requesting asylum</b> for the first time in Immigration Court, the judge will schedule another Master Calendar hearing where you will fill an asylum application in court."
+ - "The intentions of the asylum-seeker as regards the country in which he wishes to <b>request asylum</b> should as far as possible be taken into account."
+
+pt:
+ - pedir refúgio
+
+es:
+ - pedir asilo
+
+fr:
+ - demander asile
+
+obs:
+ -
+
+freq:
+ - 0.18
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - CA
+ - DE
+ - MT
+ - GB
+
+id:
+ - 0044

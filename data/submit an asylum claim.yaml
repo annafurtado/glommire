@@ -1,0 +1,41 @@
+﻿UTE:
+ - submit an asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum claim
+ - process an asylum claim
+ - make an asylum claim
+ - refuse an asylum claim
+ - lodge an asylum claim
+ - reject an asylum claim
+
+contexto:
+ - "The UNHCR summarises trends in the number of individual <b>asylum claims submitted</b> in forty four industrialised countries in Europe and selected non-European countries each year."
+ - "Any <b>asylum claim submitted</b> in a signatory state must be considered under due process whether or not the applicant entered the country legally."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.07
+
+def:
+ -
+
+variante:
+ - EU
+ - AU
+ - GB
+
+id:
+ - 0034

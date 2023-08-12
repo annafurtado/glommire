@@ -1,0 +1,37 @@
+﻿UTE:
+ - solicitante de asilo político
+
+UTEs_relacionadas:
+ - asilo
+ - asilo diplomático
+ - asilo territorial
+ - asilo político
+
+contexto:
+ - "Ser <b>solicitante de asilo político</b>, de reconocimiento de la condición de refugiado o de protección complementaria del Estado Mexicano, hasta en tanto no se resuelva su situación migratoria."
+ - "La información aportada por los <b>solicitantes de asilo político</b> y asilados será tratada con la más estricta confidencialidad, en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental."
+
+pt:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.27
+
+def:
+ -
+
+variante:
+ - MX
+ - LA
+
+id:
+ - 0078

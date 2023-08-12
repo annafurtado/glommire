@@ -1,0 +1,40 @@
+﻿UTE:
+ - regular asylum procedure
+
+UTEs_relacionadas:
+ - asylum
+ - asylum procedure
+ - examine an asylum application
+ - submit an asylum application
+ - process an asylum application
+ - individual asylum procedure
+
+contexto:
+ - "The person still needs to go through the <b>regular asylum procedure</b> after arriving in France to benefit from international protection in France."
+ - "In such cases entry to the territory and to the <b>regular asylum procedure</b> is granted immediately."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - procédure normale
+
+obs:
+ -
+
+freq:
+ - 0.06
+
+def:
+ -
+
+variante:
+ - EU
+ - DE
+ - MT
+
+id:
+ - 0027

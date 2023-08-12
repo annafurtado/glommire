@@ -1,0 +1,36 @@
+﻿UTE:
+ - obtener asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "El extranjero que desee <b>obtener el asilo</b> en España presentará su solicitud ante cualquiera de las siguientes dependencias [...]"
+ - "Si no ha recibido ninguna decisión sobre su caso, y han pasado 150 días de haber entregado su primera solicitud para <b>obtener asilo</b>, puede pedir una autorización para trabajar."
+
+pt:
+ - obter refúgio
+
+en:
+ - get asylum
+
+fr:
+ - obtenir asile
+
+obs:
+ -
+
+freq:
+ - 0.002
+
+def:
+ -
+
+variante:
+ - EC
+ - ES
+ - EU
+ - CL
+
+id:
+ - 0096

@@ -1,0 +1,33 @@
+﻿UTE:
+ - pedido de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "Após a DECISÃO do CONARE sobre o seu <b>pedido de refúgio</b>, você será comunicado da decisão nos postos da Polícia Federal e tem o DIREITO DE RECEBER CÓPIA INTEGRAL DA DECISÃO, para saber os motivos que levaram o CONARE àquela conclusão."
+ - "O <b>pedido de refúgio</b> é um direito e, como tal, deve ser respeitado pelos governos soberanos de todos os países."
+
+es:
+ - solicitud de asilo
+
+en:
+ - asylum claim
+
+fr:
+ - demande d'asile
+
+obs:
+ -
+
+freq:
+ - 5.13
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0112

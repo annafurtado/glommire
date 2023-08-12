@@ -1,0 +1,48 @@
+﻿UTE:
+ - asylum process
+
+UTEs_relacionadas:
+ - asylum
+ - asylum procedure
+ - regular asylum procedure
+ - individual asylum procedure
+ - asylum determination process
+ - asylum proceedings
+
+contexto:
+ - "In Finland and Poland, for example, basic information on the <b>asylum process</b> is provided at the border, which is complemented by more information in the reception centre."
+ - "The stage at which formal information on the <b>asylum process</b> is accessed varies according to the organisation and the outreach capabilities of NGOs and migrant communities addressing the newly arrived asylum seekers."
+
+pt:
+ - processo de refúgio
+
+es:
+ - procedimiento de asilo
+
+fr:
+ - procédure d'asile
+
+obs:
+ -
+
+freq:
+ - 1.73
+
+def:
+ -
+
+variante:
+ - EU
+ - US
+ - CA
+ - AU
+ - IE
+ - GB
+ - NZ
+ - SE
+ - ZA
+ - TT
+ - FR
+
+id:
+ - 0007

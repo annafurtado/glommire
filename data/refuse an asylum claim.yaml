@@ -1,0 +1,40 @@
+﻿UTE:
+ - refuse an asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum claim
+ - process an asylum claim
+ - make an asylum claim
+ - lodge an asylum claim
+ - reject an asylum claim
+ - submit an asylum claim
+
+contexto:
+ - "If the <b>asylum claim is refused</b>, the minor may still be granted a residence permit."
+ - "If your <b>asylum claim is refused</b> and you don't have leave to stay, the duties are more limited."
+
+pt:
+ -
+
+es:
+ - denegar asilo
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.11
+
+def:
+ -
+
+variante:
+ - EU
+ - GB
+
+id:
+ - 0031

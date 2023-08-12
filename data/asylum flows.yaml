@@ -1,0 +1,35 @@
+﻿UTE:
+ - asylum flows
+
+UTEs_relacionadas:
+ - asylum
+
+contexto:
+ - "The results indicate that <b>asylum flows</b> are largely explained by the same variables that generate total refugee displacements."
+ - "The challenge of regional cooperation is to find effective mechanisms for responding to the realities of <b>asylum flows</b> in ways that include appropriate safeguards and practical processes that work fairly for those seeking protection."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - ocorrências aparecem todas no plural.
+
+freq:
+ - 0.15
+
+def:
+ -
+
+variante:
+ - EU
+ - AU
+ - GB
+
+id:
+ - 0042

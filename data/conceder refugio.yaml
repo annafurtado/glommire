@@ -1,0 +1,33 @@
+﻿UTE:
+ - conceder refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "Havendo a possibilidade de <b>conceder o refúgio</b>, o procedimento de determinação da condição de refugiado deverá levar em consideração a gravidade da perseguição temida pelo solicitante, bem como até que ponto o temor alegado é fundado."
+ - "O ACNUR estima que 37 países já <b>concederam refúgio</b> a indivíduos cujo fundado temor de perseguição relacionava-se à orientação sexual e/ou identidade de gênero."
+
+es:
+ - conceder asilo
+
+en:
+ - grant asylum
+
+fr:
+ - accorder l'asile
+
+obs:
+ -
+
+freq:
+ - 0.50
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0132

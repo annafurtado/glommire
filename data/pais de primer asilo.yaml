@@ -1,0 +1,34 @@
+﻿UTE:
+ - país de primer asilo
+
+UTEs_relacionadas:
+ - asilo
+ - país de asilo
+
+contexto:
+ - "Solución duradera al problema de los refugiados mediante su instalación permanente en un <b>país de primer asilo</b>."
+ - "Gracias a la implicación de un partenariado activo con los <b>países de primer asilo</b>, los estados de reasentamiento pueden combinar los acuerdos de reasentamiento con la garantía de beneficios adicionales como por ejemplo la mejora de la situación de otros entre la población de refugiados."
+
+pt:
+ - primeiro país de refúgio
+
+en:
+ - country of first asylum
+
+fr:
+ - pays de premier asile
+
+obs:
+ -
+
+freq:
+ - 0.43
+
+def:
+ -
+
+variante:
+ - EU
+
+id:
+ - 0080

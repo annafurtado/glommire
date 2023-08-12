@@ -1,0 +1,36 @@
+﻿UTE:
+ - derecho a buscar y obtener asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Es muy importante aclarar que si el Gobierno ecuatoriano no ha reconocido a una persona como refugiada, no quiere decir que no lo sea, por lo que tiene el <b>derecho a buscar y obtener asilo</b> en otros países, de acuerdo con los procedimientos y la legislación de cada país y, en función del mandato establecido en los convenios internacionales;"
+ - "Toda persona tiene el <b>derecho a buscar y obtener asilo<b> en territorio extranjero en caso de persecución por delitos políticos o comunes conexos con los políticos y de acuerdo con la legislación de cada Estado y los convenios internacionales."
+
+pt:
+ - direito de buscar e receber refúgio
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ - verbos aparecem no infinitivo em todas as ocorrências.
+
+freq:
+ - 0.005
+
+def:
+ -
+
+variante:
+ - MX
+ - ES
+ - LA
+ - EC
+
+id:
+ - 0145

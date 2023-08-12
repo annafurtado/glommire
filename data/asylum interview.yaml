@@ -1,0 +1,39 @@
+﻿UTE:
+ - asylum interview
+
+UTEs_relacionadas:
+ - asylum
+
+contexto:
+ - "Children invited to attend an <b>asylum interview</b> are interviewed by a specially trained case owner."
+ - "Be sure to practice speaking with your interpreter before your <b>Asylum Interview</b>."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.8
+
+def:
+ -
+
+variante:
+ - US
+ - CA
+ - EU
+ - IE
+ - DE
+ - MT
+ - GB
+
+id:
+ - 0011

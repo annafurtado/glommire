@@ -1,0 +1,37 @@
+﻿UTE:
+ - pedir asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Numerosas mujeres que <b>piden asilo</b> se muestran reacias a la idea de relatar los detalles de su experiencia a funcionarios de sexo masculino, sobre todo si han sido víctimas de violencia sexual."
+ - "Para asegurar que está protegido el derecho de un solicitante a <b>pedir asilo</b> conforme al artículo XXVII, antes de enviar al solicitante a un tercer país, el Estado Miembro deberá realizar una evaluación individualizada del caso del refugiado, tomando en consideración todos los hechos conocidos del reclamo a la luz de las leyes de refugiados del tercer país."
+
+pt:
+ - pedir refúgio
+
+en:
+ - request asylum
+
+fr:
+ - demander asile
+
+obs:
+ -
+
+freq:
+ - 0.007
+
+def:
+ -
+
+variante:
+ - ES
+ - MX
+ - EU
+ - LA
+ - CL
+
+id:
+ - 0100

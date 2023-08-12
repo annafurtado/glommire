@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Glossário Multilíngue sobre Refúgio e Migração</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../css/stylesheets.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1 {font-family:'Fira Sans', sans-serif;}
+h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif;}
+.w3-bar,button {font-family: 'Fira Sans', sans-serif;}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+<body>
+
+<!-- Language menu -->
+<div class="w3-top">
+  <div class="w3-bar w3-light-grey w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-light-grey" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="../.." class="w3-bar-item w3-button w3-padding-large w3-white">Português</a>
+    <a href="/static/pages/en_index.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-light-grey">English</a>
+    <a href="/static/pages/fr_index.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-light-grey">Français</a>
+    <a href="/static/pages/es_index.htm" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-light-grey">Español</a>
+  </div>
+
+  <!-- Language menu on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-light-grey w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="../.." class="w3-bar-item w3-button w3-padding-large">Português</a>
+    <a href="/static/pages/en_index.html" class="w3-bar-item w3-button w3-padding-large">English</a>
+    <a href="/static/pages/fr_index.html" class="w3-bar-item w3-button w3-padding-large">Français</a>
+    <a href="/static/pages/es_index.htm" class="w3-bar-item w3-button w3-padding-large">Español</a>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="bgimg w3-container w3-center" style="padding:128px 16px; width:100%; min-height:250px; max-height:300px;">
+  <h1 class="w3-display-middle w3-margin w3-animate-top w3-jumbo w3-text-white w6-shadow">GLOSSÁRIO MULTILÍNGUE SOBRE MIGRAÇÃO E REFÚGIO</h1>
+</header>
+
+<!-- Navbar -->
+<div class="w4-content w4-padding-32 w4-panel w4-center w4-opacity" style="padding:20px 20px 20px 16px; max-width:1500px;">
+    <div class="w4-bar w4-border">
+      <a href="../.." class="w4-bar-item w4-button">Buscar</a>
+      <a href="/static/pages/pt_entradas.html" class="w4-bar-item w4-button">Lista de entradas</a>
+      <a href="/static/pages/pt_recursos.html" class="w4-bar-item w4-button">Recursos</a>
+      <a href="/static/pages/pt_projeto.html" class="w4-bar-item w4-button w4-light-grey">Sobre o Projeto</a>
+      <a href="/static/pages/pt_contato.html" class="w4-bar-item w4-button w4-hide-small">Contato</a>
+    </div>
+</div>
+
+<!-- Info Container -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-container">
+      <h1>O Projeto</h1>
+      <p class="w3-container">O Glossário Multilíngue sobre Migração e Refúgio foi desenvolvido como um Trabalho de Conclusão de Curso (TCC) no curso de <a href="http://lea-msi.unb.br/index.php/pt-br/curso">Línguas Estrangeiras Aplicadas (LEA) - MSI</a>. Com o objetivo de prover suporte linguístico para tradutores e intérpretes, além de migrantes e refugiados, o projeto conta com 120 combinatórias de palavras extraídas do Corpus Multilíngue sobre Migração e Refúgio (COMMIRE). </p>
+      <p class= "w3-container">A primeira versão do Glossário, lançada em julho de 2019, foi desenvolvida por Anna Beatriz Dimas Furtado, sob a orientação da Professora Dra. Elisa Duarte Teixeira e do Professor Dr. Cláudio Corrêa Castro no âmbito do Grupo de Pesquisa <a href="http://termitradico.unb.br">TermiTraDiCo (Terminologia e Tradução Direcionadas por Corpus)</a> em parceria ao <a href="http://mobilang.unb.br">Projeto Mobilang (Mobilidades e Línguas em Contato)</a>, ambos da <a href="http://unb.br">Universidade de Brasília</a> (UnB).</p>
+      <p class= "w3-container">A ideia é que o número de entradas disponíveis sejam ampliadas e que, futuramente, novas opções de pesquisa estejam disponíveis.</p>
+
+      <button onclick="Accordeon('How')" class="w3-button w3-block w3-left-align w3-light-grey w3-card">
+        Como funciona?
+      </button>
+
+      <p id="How" class="w3-container w3-hide">
+        Para fazer uma pesquisa em qualquer uma das línguas (português, espanhol, francês ou inglês) deste Glossário, basta ir à página inicial e inserir uma expressão de busca em letra minúscula (para expressões) ou letra maiúscula (para siglas). Caso a expressão que você buscou não seja encontrada, o Glossário retornará uma mensagem. Para saber quais expressões estão indexadas neste Glossário, basta ir em Lista de Entradas.
+      </p>
+      <br>
+
+      <button onclick="Accordeon('LC')" class="w3-button w3-block w3-left-align w3-light-grey w3-card">
+        Como foi feito?
+      </button>
+
+      <div id="LC" class="w3-container w3-hide">
+        <ul id="w3-ul">
+        <li>Este Glossário foi compilado segundo os princípios da Linguística de Corpus, isto é, as entradas exibidas foram extraídas de um corpus eletrônico (uma coleção de textos) coletado especialmente para este propósito.</li>
+        <li>Adotar a Linguística de Corpus como abordagem para a produção de glossários significa que todos os dados extraídos serão feitos por ordem de maior frequência, ou seja, extraíremos somente aquilo que de fato ocorre no corpus e que ocorre em um grande número de vezes. Por isso, pode ser que alguns termos não estejam inclusos nas listas de entradas, uma vez que seguimos a lista de frequência.</li>
+        <li>O corpus COMMIRE (<b>Co</b>rpus <b>M</b>ultilíngue sobre <b>Mi</b>gração e <b>Re</b>fúgio) que serviu de base para a extração de entradas conta com mais de 1 milhão de palavras de textos manualmente selecionados em português, espanhol, francês e inglês sobre a temática de refúgio e migração. Os textos foram, em sua maioria, produzidos por organizações governamentais, ou organizações da sociedade civil. Para obter maior representatividade, coletamos pelo menos texto que adotou as línguas inglesa, francesa e espanhola como línguas oficiais. Uma exceção a isto foi a língua portuguesa em que coletamos textos exclusivamente brasileiros. A coleta de textos de diversos países tornou possível a exibição dessa informação nas entradas.</li>
+        <li>Para fazer este Glossário, exploramos somente as 10 primeiras palavras-chave de cada idioma, devido ao curto espaço de tempo que tivemos para trabalhar. Portanto, este trabalho não abarca de forma alguma toda a área de refúgio e migração, carecendo, assim de inclusões futuras.</li>
+        <li>Além disso, fizemos este projeto pensando nas necessidades de um tradutor e/ou intérprete. Isso se reflete na ausência de informações definitórias, que podem ser posteriormente incluídas. Por isso, esperamos que esse Glossário possa ser de grande ajuda para este público, mas também para solicitantes de refúgios e migrantes que possam precisar de alguma forma.</li>
+        </ul>
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+    
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-48 w3-center w3-opacity">
+  <div class="w3-row-padding w3-padding-16 w3-center w3-margin-bottom w3-quarter">
+      <img src="/static/css/images/004.jpg" alt="Logo UnB" style="height:100px" class="w3-hover-opacity">
+  </div>
+  <div class="w3-row-padding w3-padding-16 w3-center w3-margin-bottom w3-quarter">
+      <img src="/static/css/images/001.png" alt="Logo Complett" style="height:80px" class="w3-hover-opacity">
+  </div>
+  <div class="w3-row-padding w3-padding-16 w3-center w3-margin-bottom w3-quarter">
+      <img src="/static/css/images/003.png" alt="Logo TermiTraDiCo" style="height:100px" class="w3-hover-opacity">
+  </div>
+  <div class="w3-row-padding w3-padding-16 w3-center w3-margin-bottom w3-quarter">
+      <img src="/static/css/images/002.png" alt="Logo Mobilang" style="height:100px" class="w3-hover-opacity">
+  </div>
+
+
+ <p>Template by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>.</p>
+</footer>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else {
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+<script>
+  // Accordeon Function
+function Accordeon(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else {
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+</body>
+</html>

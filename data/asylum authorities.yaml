@@ -1,0 +1,35 @@
+﻿UTE:
+ - asylum authorities
+
+UTEs_relacionadas:
+ - asylum
+ - asylum officer
+
+contexto:
+ - "The <b>asylum authority</b> should also provide for female asylum-seekers to be interviewed separately, without the presence of male family members, in order to ensure that they have an opportunity to present their case."
+ - "When dealing with a separated or unaccompanied child, <b>asylum authorities</b> should be guided by the 1997 UNHCR Guidelines on Policies and Procedures in dealing with Unaccompanied Minors Seeking Asylum."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - officier de protection
+
+obs:
+ -
+
+freq:
+ - 0.38
+
+def:
+ -
+
+variante:
+ - EU
+ - GB
+
+id:
+ - 0039

@@ -1,0 +1,46 @@
+﻿UTE:
+ - asylum
+
+UTEs_relacionadas:
+ - asylum claim
+
+contexto:
+ - "Access to <b>asylum</b> is provided for those found to be refugees, including enjoyment of the rights under the 1951 Convention;"
+ - "Many people seeking <b>asylum</b> are issued photo identification known as an 'immicard', a small plastic card not unlike a driver's licence."
+
+pt:
+ - refúgio
+
+es:
+ - asilo
+ - refugio
+
+fr:
+ - asile
+
+obs:
+ -
+
+freq:
+ - 100.1
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - CA
+ - AU
+ - IE
+ - GB
+ - NZ
+ - ZA
+ - DE
+ - CH
+ - MT
+ - FR
+ - EG
+
+id:
+ - 0001

@@ -1,0 +1,35 @@
+﻿UTE:
+ - solicitante de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "O atendimento jurídico consiste na orientação do <b>solicitante de refúgio</b> quanto à legislação brasileira e seus direitos no país, encaminhamento jurídico para obtenção e regularização de documentos e acompanhamento da situação migratória do usuário no país (solicitação de refúgios, solicitação de visto de permanência, etc.)."
+ - "Cumpre recordar que um <b>solicitante de refúgio</b> se encontra, normalmente, em uma situação particularmente vulnerável."
+
+es:
+ - solicitante de asilo
+ - demandante de asilo
+
+en:
+ - asylum seeker
+ - asylum claimant
+
+fr:
+ - demandeur d'asile
+
+obs:
+ -
+
+freq:
+ - 16.58
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0110

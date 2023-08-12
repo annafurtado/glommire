@@ -1,0 +1,35 @@
+UTE:
+ - funcionário do ACNUR
+
+UTEs_relacionadas:
+ - ACNUR
+ - escritório do ACNUR
+ - ACNUR Brasil
+
+contexto:
+ - "As seguintes recomendações são destinadas a aumentar a segurança dos <b>funcionários do ACNUR</b> e outros agentes envolvidos no processo de entrevista."
+ - "Essas Diretrizes pretendem oferecer uma orientação legal de interpretação para os governos, ONGs, profissionais do Direito, tomadores de decisão e o judiciário, assim como para os <b>funcionários do ACNUR</b> e de outras agências envolvidas com a determinação da condição de refugiados."
+
+es:
+ - personal del ACNUR
+
+en:
+ - UNHCR staff
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.85
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0154

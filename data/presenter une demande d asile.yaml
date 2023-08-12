@@ -1,0 +1,37 @@
+﻿UTE:
+ - présenter une demande d'asile
+
+UTEs_relacionadas:
+ - asile
+ - demande d'asile
+
+contexto:
+ - "Section de la Commission de l'immigration et du statut de réfugié du Canada (CISR) qui examine les <b>demandes d'asile présentées</b> au Canada et détermine si elles doivent être accueillies."
+ - "Les <b>demandes d’asile présentées</b> aux frontières, y compris dans les aéroports, soulèvent des difficultés particulières du fait que le demandeur d’asile est le plus souvent retenu sur place [...]"
+
+pt:
+ - apresentar uma solicitação de refúgio
+
+en:
+ - apply for asylum
+
+es:
+ - presentar uma solicitación de asilo
+
+obs:
+ -
+
+freq:
+ - 0.38
+
+def:
+ -
+
+variante:
+ - CA
+ - BE
+ - FR
+ - DE
+
+id:
+- 0051

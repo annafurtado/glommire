@@ -1,0 +1,42 @@
+﻿UTE:
+ - asilo político
+
+UTEs_relacionadas:
+ - asilo
+ - asilo diplomático
+ - asilo territorial
+ - solicitante de asilo político
+
+contexto:
+ - "Conforme a la Ley, el asilo o <b>asilo político</b> es la 'protección que el Estado mexicano otorga a un extranjero considerado perseguido por motivos o delitos de carácter político o por aquellos delitos del fuero común que tengan conexión con motivos políticos, cuya vida, libertad o seguridad se encuentre en peligro'."
+ - "En materia de <b>Asilo Político</b>, compete a la Secretaría de Relaciones Exteriores: I. Resolver sobre el otorgamiento de asilo político a los extranjeros que encontrándose en la representación o en territorio nacional, presenten su solicitud de conformidad con los supuestos previstos en la presente Ley y su reglamento."
+
+pt:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 2.5
+
+def:
+ -
+
+variante:
+ - EC
+ - CR
+ - ES
+ - MX
+ - ES
+ - EU
+ - LA
+
+id:
+ - 0077

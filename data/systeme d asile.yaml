@@ -1,0 +1,35 @@
+﻿UTE:
+ - système d'asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "Bien que les <b>systèmes d’asile</b> ne soient pas exempts d’irrégularités, chaque demande d’asile fait l’objet d’un examen approfondi."
+ - "Au lieu de créer une acceptation dans le public et de préparer le terrain à un <b>système d’asile</b> crédible et porteur, elle s’accommode en fin de compte d’une mise en danger de la paix sociale."
+
+pt:
+ - sistema de refúgio
+
+en:
+ - asylum system
+
+es:
+ - sistema de asilo
+
+obs:
+ -
+
+freq:
+ - 0.92
+
+def:
+ -
+
+variante:
+ - CH
+ - BE
+ - FR
+
+id:
+- 0060

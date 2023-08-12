@@ -1,0 +1,44 @@
+﻿UTE:
+ - demande d'asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "La <b>demande d’asile</b> pourrait être rejetée si le demandeur d’asile ne justifie pas suffisamment la raison pour laquelle il n’a pas introduit sa demande d’asile au plus tôt."
+ - "Le Règlement Dublin III prévoit par ailleurs une clause humanitaire qui permet à chaque État de traiter la <b>demande d'asile</b> qui lui est soumise, même s'il n'est pas responsable en vertu des critères."
+
+pt:
+ - solicitação de asilo
+
+en:
+ - asylum claim
+
+es:
+ - solicitud de asilo
+
+obs:
+ -
+
+freq:
+ - 28.00
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CA
+ - CH
+ - PT
+ - LU
+ - CY
+ - NL
+ - AT
+ - EU
+ - DE
+ - DK
+
+id:
+- 0060

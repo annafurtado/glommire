@@ -1,0 +1,33 @@
+﻿UTE:
+ - apresentar uma solicitação de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "Nas <b>solicitações de refúgio apresentadas</b> por crianças, geralmente o agente de perseguição é um ator que não o Estado."
+ - "No entanto, em outros casos a <b>solicitação de refúgio apresentada por</b> uma mulher pode não estar relacionada com o sexo dela."
+
+es:
+ - presentar una solicitación de asilo
+
+en:
+ -
+
+fr:
+ - présenter une demande d'asile
+
+obs:
+ - ocorrências aparecem sempre na voz passiva.
+
+freq:
+ - 0.90
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0141

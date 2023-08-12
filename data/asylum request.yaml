@@ -1,0 +1,41 @@
+﻿UTE:
+ - asylum request
+
+UTEs_relacionadas:
+ - asylum
+ - asylum claim
+ - seek asylum
+ - apply for asylum
+ - asylum application
+
+contexto:
+ - "An asylum-seeker's failure to submit an <b>asylum request</b> within a certain timeframe or to fulfil other formal requirements should not in itself lead to an asylum request being excluded from consideration, although under certain circumstances a late application can affect its credibility."
+ - "The asylum-seeker will be asked by the Immigration Service to complete an application form stating the reasons for his or her <b>asylum request</b>."
+
+pt:
+ - solicitação de refúgio
+
+es:
+ - solicitud de asilo
+
+fr:
+ - demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.29
+
+def:
+ -
+
+variante:
+ - EU
+ - SE
+ - US
+ - CH
+ - FR
+
+id:
+ - 0021

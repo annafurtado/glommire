@@ -1,0 +1,42 @@
+﻿UTE:
+ - process an asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum claim
+ - make an asylum claim
+ - refuse an asylum claim
+ - lodge an asylum claim
+ - reject an asylum claim
+ - submit an asylum claim
+
+contexto:
+ - "The UK Border Agency (UKBA), an agency of the Home Office, is responsible for <b>processing asylum claims</b>."
+ - "If an asylum seeker does not follow the legal protocols, they may be removed from the country without their <b>asylum claim</b> being appropriately <b>processed</b>."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - traiter une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.14
+
+def:
+ -
+
+variante:
+ - AU
+ - NZ
+ - EU
+ - GB
+
+id:
+ - 0029

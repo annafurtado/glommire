@@ -1,0 +1,34 @@
+﻿UTE:
+ - primeiro país de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+ - país de refúgio
+
+contexto:
+ - "Ter sido acolhido ao reassentamento não pode significar a perda do direito de ser novamente acolhido à proteção do <b>primeiro país de refúgio</b>."
+ - "Garantir fluxo de intercâmbio de informação entre o <b>primeiro país de refúgio</b>, o terceiro país receptor e as organizações envolvidas no processo de reassentamento, de modo a garantir um acompanhamento efetivo do processo de integração da pessoa no país final de acolhida."
+
+es:
+ - país de primer asilo
+
+en:
+ - country of first asylum
+
+fr:
+ - pays de premier asile
+
+obs:
+ -
+
+freq:
+ - 0.51
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0137

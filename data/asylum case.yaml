@@ -1,0 +1,46 @@
+﻿UTE:
+ - asylum case
+
+UTEs_relacionadas:
+ - asylum
+ - asylum procedure
+ - asylum process
+ - asylum law
+ - regular asylum procedure
+ - individual asylum procedure
+ - asylum determination process
+
+contexto:
+ - "However, in order to win your <b>asylum case</b>, you need to teach the Asylum Officer exactly what happened, when it happened, how it happened, why it happened, who did it, why they did it, what happened after, why you are afraid it will happen again, and all of the other details discussed above."
+ - "You are the most important witness in your <b>asylum case</b> and your credible testimony is the key to winning."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - tem conotação jurídica, ocorre sempre em documentos oficiais governamentais e manuais para advogados de refugiados.
+
+freq:
+ - 0.97
+
+def:
+ -
+
+variante:
+ - US
+ - CA
+ - EU
+ - IE
+ - SE
+ - ZA
+ - DE
+ - GB
+
+id:
+ - 0014

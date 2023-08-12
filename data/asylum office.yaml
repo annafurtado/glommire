@@ -1,0 +1,37 @@
+﻿UTE:
+ - asylum office
+
+UTEs_relacionadas:
+ - asylum
+ - UNHCR office
+
+contexto:
+ - "It is rare for the <b>asylum office</b> to investigate the genuineness of documents or object to evidence."
+ - "The asylum-seeker may have an attorney or representative in proceedings before the <b>asylum office</b> or immigration court at his or her own expense (that is, not at the expense of the Government)."
+
+pt:
+ -
+
+es:
+ - oficina de asilo
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.73
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - NZ
+ - GB
+
+id:
+ - 0091

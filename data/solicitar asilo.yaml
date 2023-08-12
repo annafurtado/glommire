@@ -1,0 +1,43 @@
+﻿UTE:
+ - solicitar asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "También los hombres pueden <b>solicitar asilo</b> por motivos de género, pero en su mayoría se trata de mujeres y niñas."
+ - "La posibilidad de <b>solicitar asilo</b> tiene que existir siempre en los países democráticos, pero eso no quiere decir que todo extranjero indocumentado lo transformemos en solicitante de asilo."
+
+pt:
+ - solicitar refúgio
+
+en:
+ - claim asylum
+
+fr:
+ - demander asile
+
+obs:
+ -
+
+freq:
+ - 1.55
+
+def:
+ -
+
+variante:
+ - MX
+ - EU
+ - CO
+ - ES
+ - EC
+ - AR
+ - PA
+ - LA
+ - CL
+ - GT
+ - US
+
+id:
+ - 0081

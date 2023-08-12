@@ -1,0 +1,47 @@
+UTE:
+ - asylum applicant
+
+UTEs_relacionadas:
+ - asylum
+ - asylum seeker
+ - destitute asylum seeker
+ - failed asylum seeker
+ - vulnerable asylum seeker
+
+contexto:
+ - "<b>Asylum applicants</b> are entitled to have their applications investigated and determined in a timely manner."
+ - "Subject to resources available in the country, assistance may be provided to <b>asylum applicants</b> who are considered to be in need, pending the final outcome of their asylum application."
+
+pt:
+ - solicitante de refúgio
+
+es:
+ - solicitante de asilo
+
+fr:
+ - demandeur d'asile
+
+obs:
+ -
+
+freq:
+ - 1.91
+
+def:
+ -
+
+variante:
+ - US
+ - CA
+ - AU
+ - GB
+ - IE
+ - EU
+ - SE
+ - ZA
+ - DE
+ - CH
+ - MT
+
+id:
+ - 0010

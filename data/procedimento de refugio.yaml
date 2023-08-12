@@ -1,0 +1,35 @@
+﻿UTE:
+ - solicitantes de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+ - solicitante de refúgio
+
+contexto:
+ - "Cartilha para <b>Solicitantes de Refúgio</b> no Brasil."
+ - "Metodologia e Técnicas para Entrevistar <b>Solicitantes de Refúgio</b>"
+
+es:
+ - procedimiento de asilo
+
+en:
+ - asylum procedure
+
+fr:
+ - procédure d'asile
+
+obs:
+ - ocorre sempre em títulos ou sub-títulos.
+ - ocorrências todas no plural.
+
+freq:
+ - 1.47
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0117

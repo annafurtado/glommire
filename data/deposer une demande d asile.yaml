@@ -1,0 +1,40 @@
+﻿UTE:
+ - déposer une demande d'asile
+
+UTEs_relacionadas:
+ - asile
+ - demande d'asile
+
+contexto:
+ - "Il existe une antenne de l'OFPRA à Basse-Terre (département de la Guadeloupe), compétente à l'égard des <b>demandes d'asile déposées</b> dans les 3 départements français d'Amérique: la Guadeloupe, la Martinique et la Guyane."
+ - "Les autorités fédérales (Office fédéral des migrations et Tribunal administratif fédéral) ont la compétence exclusive de trancher sur les <b>demandes d'asile déposées</b> dans notre pays."
+
+pt:
+ -
+
+en:
+ - lodge an asylum claim
+
+es:
+ -
+
+obs:
+ -
+
+freq:
+ - 1.26
+
+def:
+ -
+
+variante:
+ - FR
+ - CH
+ - PT
+ - CA
+ - BE
+ - EU
+ - DK
+
+id:
+- 0050

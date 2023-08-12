@@ -1,0 +1,43 @@
+﻿UTE:
+ - reject an asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum claim
+ - asylum request
+ - process an asylum claim
+ - make an asylum claim
+ - refuse an asylum claim
+ - lodge an asylum claim
+ - submit an asylum claim
+
+contexto:
+ - "If the <b>asylum claim is rejected</b>, the minor will not be subject to removal before turning 18."
+ - "Any new course of treatment, begun after the <b>asylum claim</b> is finally <b>rejected</b>, will be chargeable, unless the treatment itself is exempt."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.07
+
+def:
+ -
+
+variante:
+ - CA
+ - EU
+ - ZA
+ - GB
+
+id:
+ - 0033

@@ -1,0 +1,36 @@
+﻿UTE:
+ - requérants d'asile déboutés
+
+UTEs_relacionadas:
+ - asile
+ - requérants d'asile
+ - demandeur d'asile
+
+contexto:
+ - "En contrepartie, la Tunisie s’engage à reprendre aussi les <b>requérants d’ asile déboutés</b> sans papiers."
+ - "Si les <b>requérants d’asile déboutés</b> ne sont pas prêts à faire le voyage dans leur pays de provenance par eux-mêmes, le recours au niveau 4 ne tarde pas."
+
+pt:
+ -
+
+en:
+ - failed asylum seeker
+
+es:
+ -
+
+obs:
+ - ocorrências aparecem sempre no plural.
+
+freq:
+ - 0.20
+
+def:
+ -
+
+variante:
+ - FR
+ - CH
+
+id:
+- 0046

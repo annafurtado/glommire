@@ -1,0 +1,54 @@
+﻿UTE:
+ - asylum seeker
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - asylum applicant
+ - destitute asylum seeker
+ - failed asylum seeker
+ - vulnerable asylum seeker
+ - asylum claimant
+ - asylum seeker children
+
+contexto:
+ - "An <b>asylum seeker</b> is someone who is seeking international protection but whose claim for refugee status has not yet been determined."
+ - "The <b>Asylum seekers</b> were asked at which stage of the procedure they received information on the asylum procedure."
+
+pt:
+ - solicitante de refúgio
+
+es:
+ - solicitante de asilo
+
+fr:
+ - demandeur d'asile
+
+obs:
+ -
+
+freq:
+ - 34.44
+
+def:
+ -
+
+variante:
+ - CA
+ - EU
+ - AU
+ - US
+ - GB
+ - IE
+ - NZ
+ - SE
+ - ZA
+ - DE
+ - PH
+ - CH
+ - MT
+ - FR
+ - EG
+
+id:
+ - 0004

@@ -1,0 +1,35 @@
+﻿UTE:
+ - demandante de asilo
+
+UTEs_relacionadas:
+ - asilo
+ - solicitante de asilo
+
+contexto:
+ - "En España, se aloja a los refugiados reasentados en centros de recepción (establecidos tanto para los refugiados como para los <b>demandantes de asilo</b>) en los que pueden permanecer hasta seis meses, dependiendo de su nivel de necesidad."
+ - "La falta de recursos para acoger a los <b>demandantes de asilo</b> fue notoria durante el ejercicio 2015 y supuso un perjuicio para las personas que padecieron esta situación, además de un incumplimiento de la normativa en materia de acogida."
+
+pt:
+ - solicitante de refúgio
+
+en:
+ - asylum claimant
+
+fr:
+ - demandeur d'asile
+
+obs:
+ -
+
+freq:
+ - 0.20
+
+def:
+ -
+
+variante:
+ - EU
+ - ES
+
+id:
+ - 0095

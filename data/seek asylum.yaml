@@ -1,0 +1,50 @@
+﻿UTE:
+ - seek asylum
+
+UTEs_relacionadas:
+ - asylum
+ - asylum seeker
+ - asylum claim
+ - asylum request
+ - failed asylum seeker
+ - vulnerable asylum seeker
+
+contexto:
+ - "Detention imposed as a deterrent to <b>seeking asylum</b> is inconsistent with international norms."
+ - "<b>Seeking asylum</b> is a fundamental human right of any person experiencing persecution in their country of origin."
+
+pt:
+ - buscar refúgio
+
+es:
+ - buscar asilo
+
+fr:
+ - chercher asile
+
+obs:
+ -
+
+freq:
+ - 3.0
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - CA
+ - AU
+ - IE
+ - GB
+ - NZ
+ - SE
+ - ZA
+ - DE
+ - CH
+ - MT
+ - EG
+
+id:
+ - 0006

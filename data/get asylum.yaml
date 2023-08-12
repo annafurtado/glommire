@@ -1,0 +1,42 @@
+﻿UTE:
+ - get asylum
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - grant asylum
+ - asylum claim
+ - asylum request
+ - request asylum
+
+contexto:
+ - "There is no one formula for <b>getting asylum</b>."
+ - "There are many different criteria for <b>getting asylum</b>."
+
+pt:
+ - obter refúgio
+
+es:
+ - obtener asilo
+
+fr:
+ - obtenir asile
+
+obs:
+ -
+
+freq:
+ - 0.05
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - NZ
+ - ZA
+ - GB
+
+id:
+ - 0054

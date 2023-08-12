@@ -1,0 +1,33 @@
+﻿UTE:
+ - pedir refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "[...] toda pessoa que, devido a uma agressão externa, ocupação, dominação estrangeira ou eventos que perturbem seriamente a ordem pública tanto em partes quanto na totalidade do país de origem ou nacionalidade, é obrigada a deixar seu local de residência habitual para <b>pedir refúgio</b> em outro lugar fora do seu país de origem ou nacionalidade."
+ - "O primeiro passo do procedimento é dado logo quando da entrada do estrangeiro no país, quando ao manifestar sua intenção de <b>pedir refúgio</b> ao funcionário da Polícia Federal que passa a colher sua declaração."
+
+es:
+ - pedir asilo
+
+en:
+ - request asylum
+
+fr:
+ - demander asile
+
+obs:
+ -
+
+freq:
+ - 0.42
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0133

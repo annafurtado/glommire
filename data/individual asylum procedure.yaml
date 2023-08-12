@@ -1,0 +1,36 @@
+﻿UTE:
+ - individual asylum procedure
+
+UTEs_relacionadas:
+ - asylum
+ - asylum procedure
+ - regular asylum procedure
+
+contexto:
+ - "Local integration may follow the recognition of refugee status in an <b>individual asylum procedure</b>, or recognition on a group or prima facie basis."
+ - "The implementation of the <b>individual asylum procedure</b> counselling by the BAMF is parallel and subsidiary to that of the other agencies."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.05
+
+def:
+ -
+
+variante:
+ - EU
+ - DE
+
+id:
+ - 0028

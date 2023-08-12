@@ -1,0 +1,38 @@
+UTE:
+ - refugee claim
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "A <b>refugee claim</b> is made as soon as a person expresses a wish to seek asylum in New Zealand, either orally or in writing, to a representative of the Department of Labour or to a member of the Police."
+ - "They made a previous <b>refugee claim</b> in Canada which was determined to be ineligible, or was accepted, rejected, withdrawn, or declared abandoned by the Immigration and Refugee Board of Canada."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 1.4
+
+def:
+ -
+
+variante:
+ - CA
+ - AU
+ - EU
+ - NZ
+ - CH
+ - EG
+
+id:
+ - 158

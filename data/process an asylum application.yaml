@@ -1,0 +1,41 @@
+﻿UTE:
+ - process an asylum application
+
+UTEs_relacionadas:
+ - asylum
+ - examine an asylum application
+ - submit an asylum application
+
+contexto:
+ - "The average time for <b>processing an asylum application</b> under the normal procedure was 370 days and 97 days under the accelerated procedure."
+ - "If your <b>asylum application is processed</b> in a fast-track procedure, the court will not be made up by three people but by one single judge."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - traiter une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.20
+
+def:
+ -
+
+variante:
+ - IE
+ - EU
+ - SE
+ - DE
+ - GB
+ - MT
+ - FR
+
+id:
+ - 0026

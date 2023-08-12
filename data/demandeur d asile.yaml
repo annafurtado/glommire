@@ -1,0 +1,46 @@
+﻿UTE:
+ - demandeur d'asile
+
+UTEs_relacionadas:
+ - demander asile
+
+contexto:
+ - "La demande d’asile pourrait être rejetée si le <b>demandeur d’asile</b> ne justifie pas suffisamment la raison pour laquelle il n’a pas introduit sa demande d’asile au plus tôt."
+ - "Les <b>demandeurs d’asile</b> sont quant à eux protégés par le principe de non-refoulement pendant toute la durée de la procédure d’asile."
+
+pt:
+ - solicitante de refúgio
+
+en:
+ - asylum seeker
+ - asylum claimant
+
+es:
+ - solicitante de asilo
+ - demandante de asilo
+
+obs:
+ -
+
+freq:
+ - 21.91
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CA
+ - PT
+ - LU
+ - CH
+ - CY
+ - NL
+ - AT
+ - EU
+ - DE
+ - DK
+
+id:
+- 0056

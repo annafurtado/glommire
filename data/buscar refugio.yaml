@@ -1,0 +1,33 @@
+﻿UTE:
+ - buscar refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "As circunstâncias específicas que as crianças que <b>buscam refúgio</b> enfrentam, na qualidade de indivíduos que entram com solicitações independentes para a condição de refugiado, geralmente não são bem entendidas."
+ - "III – devido a grave e generalizada violação de direitos humanos, é obrigado a deixar seu país de nacionalidade para <b>buscar refúgio</b> em outro país."
+
+es:
+ - buscar asilo
+
+en:
+ - seek asylum
+
+fr:
+ - chercher asile
+
+obs:
+ -
+
+freq:
+ - 2.70
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0130

@@ -1,0 +1,35 @@
+﻿UTE:
+ - pays de premier asile
+
+UTEs_relacionadas:
+ - asile
+ - pays d'asile
+
+contexto:
+ - "[...] lorsque le rapatriement volontaire n’est encore pas possible, recouvre l’assistance aux réfugiés de sorte qu’ils deviennent indépendants dans le <b>pays de premier asile</b> et qu’ils s’intègrent dans la vie économique et sociale de la communauté locale."
+ - "Naturalisation: Aboutissement du processus d’intégration sur place, que ce soit dans le <b>pays de premier asile</b> ou dans un autre pays à la suite de la réinstallation, par lequel un réfugié acquiert la nationalité de son pays d’asile."
+
+pt:
+ - primeiro país de refúgio
+
+en:
+ - country of first asylum
+
+es:
+ - país de primer asilo
+
+obs:
+ -
+
+freq:
+ - 0.31
+
+def:
+ -
+
+variante:
+ - LU
+ - BE
+
+id:
+- 0069

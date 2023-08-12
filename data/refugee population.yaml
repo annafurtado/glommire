@@ -1,0 +1,40 @@
+UTE:
+ - refugee population
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "The <b>refugee population</b> includes people in a refugee-like situation."
+ - "In addition to funding national refugee protection mechanisms, some governments may be in a position to offer financial or technical support to countries hosting large <b>refugee populations</b>, or to admit refugees for resettlement."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ - The majority of the occurences are in plural
+
+freq:
+ - 0.9
+
+def:
+ -
+
+variante:
+ - CA
+ - AU
+ - EU
+ - IE
+ - US
+ - NZ
+ - GB
+ - CH
+
+id:
+ - 0160

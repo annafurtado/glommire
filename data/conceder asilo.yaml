@@ -1,0 +1,36 @@
+﻿UTE:
+ - conceder asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Desde que le <b>concedan el asilo</b>, contacte a la Agencia de Reintegración de Refugiados ('Refugee Resettlement Agency') en su area para obtener estos servicios."
+ - "El <b>asilo concedido</b> por un Estado, en el ejercicio de su soberanía, a las personas que tengan justificación para invocar el artículo 14 de la Declaración Universal de Derechos Humanos, incluidas las personas que luchan contra el colonialismo, deberá ser respetado por todos los demás Estados."
+
+pt:
+ - conceder refúgio
+
+en:
+ - grant asylum
+
+fr:
+ - accorder asile
+
+obs:
+ -
+
+freq:
+ - 0.008
+
+def:
+ -
+
+variante:
+ - MX
+ - EU
+ - LA
+ - ES
+
+id:
+ - 0090

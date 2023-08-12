@@ -1,0 +1,44 @@
+﻿UTE:
+ - condición de refugiado
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "Solicita la <b>condición de refugiado</b> si tienes temor o miedo de regresar a tu país, pido comunicarte con la COMAR."
+ - "Dentro del Ministerio, el GIT de Refugio que hace las veces de secretaría técnica de la Comisión Asesora para la Determinación de la <b>Condición de Refugiado</b> (CONARE), recibe las solicitudes; entrevista a los solicitantes; analiza y estudia los casos; proyecta las resoluciones y autoriza el salvoconducto."
+
+pt:
+ - condição de refugiado
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 1.3
+
+def:
+ -
+
+variante:
+ - CO
+ - MX
+ - PE
+ - UY
+ - UE
+ - EC
+ - CR
+ - ES
+ - AR
+ - PA
+ - CL
+ - GT
+
+id:
+ - 0166

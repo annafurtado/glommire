@@ -1,0 +1,40 @@
+﻿UTE:
+ - procédure d'asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "Tous les courriers de la <b>procédure d’asile</b> seront envoyés à cette adresse et si le demandeur n’y répond pas rapidement, sa demande d’asile peut être rejetée."
+ - "Au cours de la <b>procédure d’asile</b>, cela entraîne souvent des malentendus et peut justifier une décision de rejet, car on impute aux personnes auditionnées des déclarations contradictoires."
+
+pt:
+ - procedimento de refúgio
+
+en:
+ - asylum procedure
+
+es:
+ - procedimiento de asilo
+
+obs:
+ -
+
+freq:
+ - 9.98
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CH
+ - LU
+ - CA
+ - AT
+ - EU
+ - DE
+
+id:
+- 0057

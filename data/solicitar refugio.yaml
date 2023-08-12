@@ -1,0 +1,33 @@
+﻿UTE:
+ - solicitar refúgio
+
+UTEs_relacionadas:
+ - refúgio
+
+contexto:
+ - "Nem toda convicção, por mais genuína que seja, constitui razão suficiente para <b>solicitar refúgio</b> após a deserção ou insubmissão."
+ - "Quando os parentes ou o tutor <b>solicitam refúgio</b> com base em um temor de perseguição contra a criança, ela normalmente será o principal solicitante, mesmo que acompanhada pelos pais."
+
+es:
+ - solicitar asilo
+
+en:
+ - claim asylum
+
+fr:
+ - demander asile
+
+obs:
+ -
+
+freq:
+ - 3.27
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0129

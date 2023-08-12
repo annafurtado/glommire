@@ -1,0 +1,43 @@
+﻿UTE:
+ - solicitud de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "La autoridad que reciba la <b>solicitud de asilo</b> deberá remitirla a la Secretaría Permanente de la Comisión de Refugiados dentro del plazo máximo de 24 horas."
+ - "El Comité contra la Tortura ha indicado la importancia de “la regulación de procedimientos de tramitación y decisión de las <b>solicitudes de asilo</b> y refugio, que contemplen la oportunidad del requirente de ser formalmente oído y de hacer valer lo que convenga al derecho que invoca, incluido su prueba, con resguardo de las características del debido proceso de derecho”."
+
+pt:
+ - solicitação de refúgio
+
+en:
+ - asylum application
+
+fr:
+ - demande d'asile
+
+obs:
+ -
+
+freq:
+ - 6.25
+
+def:
+ -
+
+variante:
+ - MX
+ - ES
+ - CL
+ - AR
+ - EU
+ - PA
+ - LA
+ - GT
+ - PE
+ - US
+ - UY
+
+id:
+ - 0083

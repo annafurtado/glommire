@@ -1,0 +1,36 @@
+﻿UTE:
+ - requérants d'asile mineurs non accompagnés
+
+UTEs_relacionadas:
+ - asile
+ - requérants d'asile
+
+contexto:
+ - "Lorsqu'un <b>requérant d'asile mineur non accompagné (RMNA)</b> est attribué à un canton, le Service de l'enfance et de la jeunesse (SEJ) a la responsabilité de nommer immédiatement une personne de confiance, chargée de représenter les intérêts du mineur pendant la durée de la procédure."
+ - "Le soutien financier substantiel que la Confédération alloue désormais à l’encadrement des <b>requérants d’asile mineurs non accompagnés (RMNA)</b> représente un grand soulagement pour les cantons."
+
+pt:
+ -
+
+en:
+ -
+
+es:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.38
+
+def:
+ -
+
+variante:
+ - FR
+ - CH
+ - CA
+
+id:
+- 0052

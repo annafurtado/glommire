@@ -1,0 +1,35 @@
+﻿UTE:
+ - recevoir l'asile
+
+UTEs_relacionadas:
+ -
+
+contexto:
+ - "Cela signifie qu’il / elle est reconnu-e comme réfugié-e et <b>reçoit l’ asile</b> en Suisse."
+ - "Le logement dans les centres de la résidence temporaire des Services de Migration est accordé aux demandeurs d’asile et reconnus réfugiés et aux personnes ayant <b>reçu l’ asile</b> temporaire."
+
+pt:
+ - receber refúgio
+
+es:
+ - recibir asilo
+
+en:
+ - receive asylum
+
+obs:
+ -
+
+freq:
+ - 0.1
+
+def:
+ -
+
+variante:
+ - CH
+ - CA
+ - BE
+
+id:
+ - 0177

@@ -1,0 +1,47 @@
+﻿UTE:
+ - asylum application
+
+UTEs_relacionadas:
+ - asylum
+ - examine an asylum application
+ - submit an asylum application
+ - process an asylum application
+
+contexto:
+ - "The <b>asylum application</b> is supposed to remain confidential."
+ - "Besides, the <b>asylum application</b> is sometimes considered a personal matter not to be discussed with other applicants."
+
+pt:
+ - solicitação de refúgio
+
+es:
+ - solicitud de asilo
+
+fr:
+ - demande d'asile
+
+obs:
+ -
+
+freq:
+ - 9.30
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - AU
+ - GB
+ - IE
+ - SE
+ - ZA
+ - DE
+ - CH
+ - MT
+ - FR
+ - EG
+
+id:
+ - 0002

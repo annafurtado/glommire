@@ -1,0 +1,43 @@
+﻿UTE:
+ - make an asylum claim
+
+UTEs_relacionadas:
+ - asylum
+ - asylum claim
+ - process an asylum claim
+ - refuse an asylum claim
+ - lodge an asylum claim
+ - reject an asylum claim
+ - submit an asylum claim
+
+contexto:
+ - "Any person in Canada may <b>make an asylum claim</b> inland at any point, provided it is done prior to the issuance of a removal order."
+ - "Upon <b>making an asylum claim</b>, asylum-seekers have access to the assistance of a social worker of the Ministry of Employment and Social Security, who will provide information on reception benefits."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - faire une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.53
+
+def:
+ -
+
+variante:
+ - EU
+ - CA
+ - NZ
+ - AU
+ - GB
+
+id:
+ - 0030

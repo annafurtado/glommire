@@ -1,0 +1,35 @@
+﻿UTE:
+ - oficina de asilo
+
+UTEs_relacionadas:
+ - asilo
+
+contexto:
+ - "Cuando la <b>Oficina de Asilo</b> recibe su petición, la oficina programará una entrevista con usted."
+ - "Pero algunas veces, el funccionario del asilo se va a pedir que usted venga a la <b>oficina del asilo</b> para dar a usted la decisión."
+
+pt:
+ -
+
+en:
+ - asylum office
+ - UNHCR office
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 2.85
+
+def:
+ -
+
+variante:
+ - ES
+ - US
+
+id:
+ - 0085

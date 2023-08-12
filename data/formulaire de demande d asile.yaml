@@ -1,0 +1,36 @@
+UTE:
+ - formulaire de demande d'asile
+
+UTEs_relacionadas:
+ - asile
+ - demande d'asile
+
+contexto:
+ - "L'examen par l'Office français de protection des réfugiés et apatrides (OFPRA) La préfecture vous a remis en même temps que l'attestation de demande d'asile un <b>formulaire de demande d'asile</b> que vous devez remplir et transmettre à l'OFPRA."
+ - "L’attestation de demande d’asile délivrée ainsi que le <b>formulaire de demande d’asile</b> OFPRA sont remis à la famille."
+
+pt:
+ - formulário de solicitação de refúgio
+
+en:
+ -
+
+es:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.09
+
+def:
+ -
+
+variante:
+ - CA
+ - FR
+ - BE
+
+id:
+- 0093

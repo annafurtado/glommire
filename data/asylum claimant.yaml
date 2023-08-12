@@ -1,0 +1,41 @@
+﻿UTE:
+ - asylum claimant
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - asylum applicant
+ - destitute asylum seeker
+ - failed asylum seeker
+ - vulnerable asylum seeker
+ - asylum seeker children
+
+contexto:
+ - "It revealed that successful <b>asylum claimants</b>, also known as Convention refugees, find it difficult to access interpreters and opportunities to learn English."
+ - "All <b>asylum claimants</b> may be required to have their fingerprints taken for identification purposes."
+
+pt:
+ - solicitante de refúgio
+
+es:
+ - demandante de asilo
+
+fr:
+ - demandeur d'asile
+
+obs:
+ -
+
+freq:
+ - 0.80
+
+def:
+ -
+
+variante:
+ - GB
+ - NZ
+ - EU
+
+id:
+ - 0038

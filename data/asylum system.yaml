@@ -1,0 +1,44 @@
+﻿UTE:
+ - asylum system
+
+UTEs_relacionadas:
+ - asylum
+ - national asylum system
+
+contexto:
+ - "In those states which are parties to the Refugees Convention, <b>asylum systems</b> are often undeveloped."
+ - "If the <b>asylum system</b> is both fast and fair, people who know they are not refugees have little incentive to make a claim in the first place, which benefits Internally displaced people are often wrongly identified by the press or general public as refugees."
+
+pt:
+ - sistema de refúgio
+
+es:
+ - sistema de asilo
+
+fr:
+ - système d'asile
+
+obs:
+ -
+
+freq:
+ - 1.57
+
+def:
+ -
+
+variante:
+ - CA
+ - EU
+ - IE
+ - GB
+ - NZ
+ - AU
+ - SE
+ - ZA
+ - DE
+ - MT
+ - CH
+
+id:
+ - 0008

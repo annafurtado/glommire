@@ -1,0 +1,45 @@
+UTE:
+ - Agencia de la ONU para los refugiados (ACNUR)
+
+UTEs_relacionadas:
+ - oficina del ACNUR
+
+contexto:
+ - "El <b>ACNUR</b> es la única institución de las Naciones Unidas cuyo mandato es proteger a los refugiados."
+ - "<b>ACNUR (Agencia de la ONU para los refugiados)</b> — dirige y coordina la acción internacional para proteger y resolver los problemas de las personas refugiadas y apátridas en todo el mundo."
+
+pt:
+ - Alto Comissariado das Nações Unidas para Refúgio ACNUR Brasil
+
+en:
+ - United Nations High Commissioner for Refugees UNHCR
+
+fr:
+ - Haut commissariat des Nations Unies pour les réfugiés UNHCR
+
+obs:
+ -
+
+freq:
+ - 0.25
+
+def:
+ -
+
+variante:
+ - MX
+ - ES
+ - EU
+ - CO
+ - EC
+ - AR
+ - PA
+ - LA
+ - CL
+ - GT
+ - PE
+ - US
+ - UY
+
+id:
+ - 0162

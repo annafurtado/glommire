@@ -1,0 +1,54 @@
+﻿UTE:
+ - apply for asylum
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - grant asylum
+ - asylum claim
+ - asylum request
+ - request asylum
+ - get asylum
+
+contexto:
+ - "Delay in <b>applying for asylum</b> at the earliest opportunity does not negate a claim for asylum."
+ - "If a mentally disabled person is <b>applying for asylum</b> independently, he or she must be assisted with the application."
+
+pt:
+ - solicitar refúgio
+
+es:
+ - solicitar asilo
+ - presentar uma solicitación de asilo
+
+fr:
+ - demander asile
+ - présenter une demande d'asile
+
+obs:
+ -
+
+freq:
+ - 2.40
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - CA
+ - AU
+ - IE
+ - GB
+ - NZ
+ - SE
+ - ZA
+ - TT
+ - DE
+ - CH
+ - MT
+ - FR
+
+id:
+ - 0055

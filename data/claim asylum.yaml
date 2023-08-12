@@ -1,0 +1,51 @@
+﻿UTE:
+ - claim asylum
+
+UTEs_relacionadas:
+ - asylum
+ - seek asylum
+ - asylum claim
+ - process an asylum claim
+ - make an asylum claim
+ - refuse an asylum claim
+ - lodge an asylum claim
+ - reject an asylum claim
+ - submit an asylum claim
+ - asylum request
+ - request asylum
+
+contexto:
+ - "People are expected by the Home Office to <b>claim asylum</b> as soon as possible."
+ - "For nationals of these countries <b>claiming asylum</b>, individual treatment of their application is still guaranteed, but it will be subject to an accelerated procedure (15 working days) at the CGRS and will require a higher standard of proof."
+
+pt:
+ - solitar refúgio
+
+es:
+ - solicitar asilo
+
+fr:
+ - demander asile
+
+obs:
+ -
+
+freq:
+ - 1.30
+
+def:
+ -
+
+variante:
+ - US
+ - EU
+ - CA
+ - AU
+ - IE
+ - GB
+ - NZ
+ - ZA
+ - CH
+
+id:
+ - 0043

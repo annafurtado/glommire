@@ -1,0 +1,36 @@
+﻿UTE:
+ - accorder l'asile
+
+UTEs_relacionadas:
+ - asile
+
+contexto:
+ - "Si la CNDA refuse de vous <b>accorder l'asile</b>, cela signifie que vous n'avez plus droit au séjour sur le territoire français."
+ - "La décision peut être positive et la Suisse vous <b>accorde l'asile</b> ou vous admet à titre provisoire."
+
+pt:
+ - conceder refúgio
+
+en:
+ - grant asylum
+
+es:
+ - conceder asilo
+ - otorgar asilo
+
+obs:
+ -
+
+freq:
+ - 0.27
+
+def:
+ -
+
+variante:
+ - FR
+ - CH
+ - BE
+
+id:
+- 0049

@@ -1,0 +1,37 @@
+﻿UTE:
+ - asylum officer
+
+UTEs_relacionadas:
+ - asylum
+ - asylum office
+ - asylum authority
+
+contexto:
+ - "The <b>asylum officer</b> verifies the asylum-seeker's identity, records basic biographical information, and elicits detailed information regarding the applicant's claim for asylum."
+ - "The <b>asylum officer</b> determines whether the applicant is eligible for asylum."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ - officier de protection
+
+obs:
+ -
+
+freq:
+ - 0.67
+
+def:
+ -
+
+variante:
+ - US
+ - CA
+ - EU
+
+id:
+ - 0013

@@ -1,0 +1,49 @@
+﻿UTE:
+ - asylum procedure
+
+UTEs_relacionadas:
+ - asylum
+ - asylum process
+ - regular asylum procedure
+ - individual asylum procedure
+ - asylum determination process
+ - asylum proceedings
+
+contexto:
+ - "States need to ensure that <b>asylum procedures</b> are gender-sensitive."
+ - "A fair <b>asylum procedure</b> is one where applicants know their rights and duties, and where they understand its different stages."
+
+pt:
+ - procedimento de refúgio
+
+es:
+ - procedimiento de asilo
+
+fr:
+ - procédure d'asile
+
+obs:
+ -
+
+freq:
+ - 8.36
+
+def:
+ -
+
+variante:
+ - CA
+ - AU
+ - EU
+ - IE
+ - NZ
+ - SE
+ - US
+ - DE
+ - GB
+ - CH
+ - MT
+ - FR
+
+id:
+ - 0003

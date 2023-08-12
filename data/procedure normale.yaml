@@ -1,0 +1,38 @@
+UTE:
+ - procédure normale
+
+UTEs_relacionadas:
+ - asile
+ - procédure d'asile
+
+contexto:
+ - "Contre la décision de refus de l'octroi de la protection internationale et contre l'ordre de quitter le territoire, pris dans le cadre la <b>procédure normale<b>, un recours est possible devant le tribunal administratif."
+ - " [...] offre à chaque demandeur d’asile une réelle possibilité de réfuter toute présomption générale de sécurité concernant sa situation particulière et de demander que la demande soit traitée dans le cadre des <b>procédures normales</b> et examinée dans le détail."
+
+pt:
+ -
+
+en:
+ - regular asylum procedure
+
+es:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.76
+
+def:
+ -
+
+variante:
+ - FR
+ - LU
+ - BE
+ - CH
+ - CA
+
+id:
+- 0068

@@ -1,0 +1,48 @@
+﻿UTE:
+ - demander asile
+
+UTEs_relacionadas:
+ - asile
+ - demander l'asile
+ - demandeur d'asile
+
+contexto:
+ - "Le fait de <b>demander l'asile</b> implique que le demandeur d'asile n'ait plus de contact avec les autorités de son pays d'origine ou son ambassade, parce qu'il craint d'être persécuté et qu'elles sont incapables de le protéger."
+ - "Le droit de <b>demander l’asile</b> dans un autre pays est en revanche bel et bien un droit humain."
+
+pt:
+ - solicitar refúgio
+ - pedir refúgio
+
+en:
+ - claim asylum
+ - seek asylum
+ - request asylum
+
+es:
+ - solicitar asilo
+ - pedir asilo
+
+obs:
+ -
+
+freq:
+ - 3.94
+
+def:
+ -
+
+variante:
+ - BE
+ - FR
+ - CA
+ - PT
+ - LU
+ - CH
+ - CY
+ - NL
+ - EU
+ - DE
+
+id:
+- 0045

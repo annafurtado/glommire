@@ -1,0 +1,39 @@
+UTE:
+ - oficina del ACNUR
+
+UTEs_relacionadas:
+ - ACNUR
+ - personal del ACNUR
+
+contexto:
+ - "Si lo deseas puedes pedir información y orientación a la <b>oficina del ACNUR</b>."
+ - "La <b>oficina del ACNUR</b> en el país interesado, o competente para ese país, conoce la situación local y regional, así como las normas internacionales."
+
+pt:
+ - escritório do ACNUR
+
+en:
+ - UNHCR office
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 1.65
+
+def:
+ -
+
+variante:
+ - MX
+ - EU
+ - ES
+ - LA
+ - AR
+ - EC
+
+id:
+ - 0160

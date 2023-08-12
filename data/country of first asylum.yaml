@@ -1,0 +1,39 @@
+﻿UTE:
+ - country of first asylum
+
+UTEs_relacionadas:
+ - asylum
+ - asylum country
+
+contexto:
+ - "The <b>Country of first asylum</b>: The first country in which an asylum-seeker has been granted an effective hearing of his or her application for asylum."
+ - "[...] temporary protection in a <b>country of first asylum</b> until a durable outcome can be found;"
+
+pt:
+ - primeiro país de refúgio
+
+es:
+ - país de primer asilo
+
+fr:
+ - pays de premier asile
+
+obs:
+ -
+
+freq:
+ - 0.20
+
+def:
+ -
+
+variante:
+ - AU
+ - NZ
+ - EU
+ - PH
+ - GB
+ - CH
+
+id:
+ - 0037

@@ -1,0 +1,38 @@
+﻿UTE:
+ - submit an asylum application
+
+UTEs_relacionadas:
+ - asylum
+ - asylum applicant
+ - asylum request
+ - examine an asylum application
+ - process an asylum application
+
+contexto:
+ - "You are required to <b>submit your asylum application</b> in person at the BAMF office."
+ - "The period of time between an <b>asylum application being submitted</b> and receiving an answer can be anything between a number of days up to several years, depending on the complexity of the application."
+
+pt:
+ -
+
+es:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.03
+
+def:
+ -
+
+variante:
+ - EU
+ - AU
+
+id:
+ - 0025

@@ -1,0 +1,37 @@
+﻿UTE:
+ - pays d'asile
+
+UTEs_relacionadas:
+ - asile
+ - pays de premier asile
+
+contexto:
+ - "Le regroupement familial dans le <b>pays d’asile</b> est souvent le seul moyen d’assurer le respect du droit d’un réfugié à l’unité familiale puisqu’il lui est impossible de retourner dans son pays d’origine ou de résidence habituelle."
+ - "Intégration sur place: l’installation dans la communauté d’accueil Lorsque le rapatriement librement consenti n’est pas envisageable, rester dans le <b>pays d’asile</b> et s’intégrer dans la communauté locale peut représenter une solution durable."
+
+pt:
+ - país de refúgio
+
+en:
+ - country of asylum
+
+es:
+ - país de asilo
+
+obs:
+ -
+
+freq:
+ - 1.23
+
+def:
+ -
+
+variante:
+ - BE
+ - LU
+ - CH
+ - FR
+
+id:
+- 0058

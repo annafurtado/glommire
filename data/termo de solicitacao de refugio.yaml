@@ -1,0 +1,34 @@
+﻿UTE:
+ - termo de solicitação de refúgio
+
+UTEs_relacionadas:
+ - refúgio
+ - solicitação de refúgio
+
+contexto:
+ - "O estrangeiro que se encontre em território nacional e que desejar pedir refúgio ao Governo brasileiro deverá dirigir-se, pessoalmente ou por seu procurador ou representante legal, a qualquer Unidade da Polícia Federal, onde receberá e/ou entregará preenchido o <b>Termo de Solicitação de Refúgio</b> constante do Anexo I da presente Resolução, devendo a Polícia Federal fornecer ao solicitante cópia de todos os termos."
+ - "As informações contidas no <b>Termo de Solicitação de Refúgio</b>, referentes às cirscunstâncias relativas a sua entrada no Brasil e às razões que o fizeram deixar o seu País de origem, equivalerão ao Termo de Declarações de que trata o artigo 9º da Lei 9.474/1997."
+
+es:
+ -
+
+en:
+ -
+
+fr:
+ - formulaire de demande d'asile
+
+obs:
+ -
+
+freq:
+ - 0.42
+
+def:
+ -
+
+variante:
+ - BR
+
+id:
+ - 0139

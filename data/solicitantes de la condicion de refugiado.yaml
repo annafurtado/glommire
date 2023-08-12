@@ -1,0 +1,46 @@
+UTE:
+ - solicitantes de la condición de refugiado
+
+UTEs_relacionadas:
+ - refugiado
+ - condición de refugiado
+ - solicitud de reconocimiento de la condición de refugiado
+ - determinación de la condición de refugiado
+
+contexto:
+ - "El ejercicio del derecho al trabajo de las personas <b>solicitantes de la condición de refugiado</b> y refugiadas es vulnerado en Ecuador, en el primer caso al disponer que no pueden realizar actividades laborales en relación de dependencia o por cuenta propia, mientras no adquieran el estatus de refugiados;"
+ - "En todo caso, a los <b>solicitantes de la condición de refugiado</b> que hayan ingresado o residan irregularmente en el territorio nacional, no se les aplicarán las medidas de control y traslado establecidas en las normas generales sobre extranjeros en Chile [...]"
+
+pt:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 0.67
+
+def:
+ -
+
+variante:
+ - MX
+ - EC
+ - ES
+ - AR
+ - LA
+ - CL
+ - GT
+ - EC
+ - PA
+ - CO
+
+
+id:
+ - 0070

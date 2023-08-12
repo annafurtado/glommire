@@ -1,0 +1,40 @@
+﻿UTE:
+ - asylum status
+
+UTEs_relacionadas:
+ - asylum
+
+contexto:
+ - "The <b>Asylum status</b> cannot be granted in cases where an asylum-seeker arrives in Germany via a safe third country or where the claim is based on post-flight events for which the asylum-seeker is responsible."
+ - "Since I apply for <b>asylum status</b> I qualified to receive the emergency benefit."
+
+pt:
+ - status de refugiado
+
+es:
+ -
+
+fr:
+ - statut de refugié
+
+obs:
+ -
+
+freq:
+ - 0.31
+
+def:
+ -
+
+variante:
+ - US
+ - AU
+ - NZ
+ - EU
+ - ZA
+ - DE
+ - CH
+ - MT
+
+id:
+ - 0016

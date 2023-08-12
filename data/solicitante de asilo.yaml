@@ -1,0 +1,43 @@
+﻿UTE:
+ - solicitante de asilo
+
+UTEs_relacionadas:
+ - asilo
+ - solicitud de asilo
+
+contexto:
+ - "Antes de hacer las preguntas, lea al <b>solicitante de asilo</b> la breve introducción que sigue, para informarle sobre la finalidad del Cuestionario y crear un clima de confianza y seguridad."
+ - "De hecho pueden pasar años antes de que un <b>solicitante de asilo</b> sea declarado refugiado."
+
+pt:
+ - solicitante de refúgio
+
+en:
+ - asylum seeker
+
+fr:
+ - demandeur d'asile
+
+obs:
+ -
+
+freq:
+ - 24.11
+
+def:
+ -
+
+variante:
+ - MX
+ - EU
+ - ES
+ - EC
+ - AR
+ - PA
+ - LA
+ - GT
+ - PE
+ - UY
+
+id:
+ - 0084

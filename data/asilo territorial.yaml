@@ -1,0 +1,39 @@
+﻿UTE:
+ - asilo territorial
+
+UTEs_relacionadas:
+ - asilo
+ - asilo diplomático
+ - asilo político
+
+contexto:
+ - "Por un lado, el <b>asilo territorial</b>, es aquel que un Estado concede en su territorio a una persona perseguida por motivos políticos o acusada de cometer delitos políticos o comunes conexos con los políticos del asilo diplomático [...]"
+ - "Para el caso de <b>asilo territorial</b>, el solicitante deberá presentarse físicamente en la sede de la SRE o en sus delegaciones localizadas fuera de la Ciudad de México, para presentar por escrito su solicitud o de manera verbal, de no poder presentarla por escrito, proporcionando los mismos datos que en el caso de asilo diplomático."
+
+pt:
+ -
+
+en:
+ -
+
+fr:
+ -
+
+obs:
+ -
+
+freq:
+ - 1.17
+
+def:
+ -
+
+variante:
+ - EC
+ - ES
+ - MX
+ - EU
+ - LA
+
+id:
+ - 0076
